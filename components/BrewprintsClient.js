@@ -5,34 +5,56 @@ import Link from 'next/link';
 
 export default function BrewprintsClient({ initialBrewprints = [] }) {
     const [brewprints, setBrewprints] = useState(initialBrewprints);
+    const [isAlphabeticalAsc, setIsAlphabeticalAsc] = useState(true);
+    const [isPriceAsc, setIsPriceAsc] = useState(true);
+    const [isAlcoholVolumeAsc, setIsAlcoholVolumeAsc] = useState(true);
 
     const sortAlphabetically = () => {
-        const sorted = [...brewprints].sort((a, b) => a.name.localeCompare(b.name));
+        const sorted = [...brewprints].sort((a, b) => {
+            if (isAlphabeticalAsc) {
+                return a.name.localeCompare(b.name);
+            } else {
+                return b.name.localeCompare(a.name);
+            }
+        });
         setBrewprints(sorted);
+        setIsAlphabeticalAsc(!isAlphabeticalAsc); // Toggle the sort order for next click
     };
-
+    
     const sortByPrice = () => {
-        const sorted = [...brewprints].sort((a, b) => a.price - b.price);
+        const sorted = [...brewprints].sort((a, b) => {
+            if (isPriceAsc) {
+                return a.price - b.price;
+            } else {
+                return b.price - a.price;
+            }
+        });
         setBrewprints(sorted);
-    };
+        setIsPriceAsc(!isPriceAsc); // Toggle the sort order for next click
+    };    
 
     const sortByAlcoholVolume = () => {
-        const sorted = [...brewprints].sort((a, b) => parseFloat(a.alcoholByVolume) - parseFloat(b.alcoholByVolume));
+        const sorted = [...brewprints].sort((a, b) => {
+            const volA = parseFloat(a.alcoholByVolume);
+            const volB = parseFloat(b.alcoholByVolume);
+            return isAlcoholVolumeAsc ? volA - volB : volB - volA;
+        });
         setBrewprints(sorted);
+        setIsAlcoholVolumeAsc(!isAlcoholVolumeAsc); // Toggle the sort order for next click
     };
 
     return (
         <section className="mt-6 mx-auto max-w-2xl">
             <h2 className="text-4xl font-bold dark:text-white/90">Brewprints</h2>
             <div className="flex justify-center gap-4 my-4">
-                <button onClick={sortAlphabetically} className="px-4 py-2 bg-blue-500 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
+                <button onClick={sortAlphabetically} className="px-4 py-2 bg-gray-500 text-white font-semibold rounded-lg shadow-md hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-opacity-75">
                     Sort Alphabetically
                 </button>
-                <button onClick={sortByPrice} className="px-4 py-2 bg-green-500 text-white font-semibold rounded-lg shadow-md hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-400 focus:ring-opacity-75">
+                <button onClick={sortByPrice} className="px-4 py-2 bg-gray-500 text-white font-semibold rounded-lg shadow-md hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-opacity-75">
                     Sort by Price
                 </button>
-                <button onClick={sortByAlcoholVolume} className="px-4 py-2 bg-red-500 text-white font-semibold rounded-lg shadow-md hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-red-400 focus:ring-opacity-75">
-                    Sort by Alcohol Volume
+                <button onClick={sortByAlcoholVolume} className="px-4 py-2 bg-gray-500 text-white font-semibold rounded-lg shadow-md hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-opacity-75">
+                    {isAlcoholVolumeAsc ? 'Sort by Alcohol Volume (Asc)' : 'Sort by Alcohol Volume (Desc)'}
                 </button>
             </div>
             <div className="grid grid-cols-2 gap-4 mt-6">
@@ -50,7 +72,7 @@ export default function BrewprintsClient({ initialBrewprints = [] }) {
                             <p className="mt-2 text-base dark:text-white/70">Bitterness: {item.bitterness}</p>
                             <p className="mt-2 text-base dark:text-white/70">Brewing Program: {item.brewingProgram}</p>
                             <p className="mt-2 text-base dark:text-white/70">Approximate Brewing Time: {item.approximateBrewingTime}</p>
-                            <p className="mt-2 text-base dark:text-white/70">Brew Notes: {item.brewNotes}</p>
+                            {/* <p className="mt-2 text-base dark:text-white/70">Brew Notes: {item.brewNotes}</p> */}
                             <p className="mt-2 text-base dark:text-white/70">
                                 Inside The Box: {
                                     [item.insideTheBox.elements, item.insideTheBox.enhancers, item.insideTheBox.hops, item.insideTheBox.yeasts, item.insideTheBox.primers]
@@ -63,6 +85,7 @@ export default function BrewprintsClient({ initialBrewprints = [] }) {
                         <div className="flex flex-col items-end">
                             <p className="text-xl font-bold dark:text-white/90">Brewprint: ${item.price}</p>
                             <p className="mt-2 text-base dark:text-white/70">Ingredients: ${item.totalPriceOfIngredients}</p>
+                            <p className="mt-2 text-sm dark:text-white/70">{item.price > item.totalPriceOfIngredients ? "Cheaper buying ingredients individually" : "Cheaper buying Brewprint"}</p>
                         </div>
                     </div>
                 ))}

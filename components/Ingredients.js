@@ -22,7 +22,7 @@ export default async function Ingredients() {
                                 <p className="mt-2 text-base dark:text-white/70">{item.shortDescription}</p>
                                 <img src={item.image} alt={item.name} className="w-full h-auto mt-2" />
                             </Link>
-                            <p className="mt-2 text-base dark:text-white/70">{item.longDescription}</p>
+                            <p className="mt-2 text-base dark:text-white/70">{item.longDescription.replace("  ","<br>")}</p>
                         </div>
                         <div className="flex flex-col items-end">
                             <p className="text-xl font-bold dark:text-white/90">${item.price}</p>

@@ -8,6 +8,7 @@ export default function Home() {
         BeerArt Brewprints
       </h1>
       <BrewprintsServer />
+      <Ingredients />
     </main >
   )
 }
