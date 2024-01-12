@@ -5,7 +5,7 @@ export default async function Recipes() {
 
     return (
         <section id="recipes" className="mt-6 mx-auto max-w-4xl">
-            <h2 className="text-4xl font-bold dark:text-white/90">Clones</h2>
+            <h2 className="text-4xl font-bold dark:text-white/90">Commercial Clones</h2>
             <div className="grid grid-cols-3 gap-4 mt-6">
                 {brewsArray.map((brew, index) => (
                     <div key={index} className="flex flex-col justify-between p-4 bg-white rounded-lg shadow-lg dark:bg-gray-800">

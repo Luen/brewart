@@ -113,7 +113,12 @@ export default function BrewprintsClient({ initialBrewprints = [] }) {
                                 <img src={item.imageBanner} alt={item.name} className="w-full h-auto mt-2" />
                                 <p className="mt-2 text-base dark:text-white/70">{item.longDescription.replace("PLEASE NOTE: This BrewPrint contains Dry Hops! The Dry Hop Filter is required to filter out hop debris.","").replace("** For a Limited Time only the Australian Lager BrewPrint comes with a BONUS Christmas gift wrap, so you can wrap Christmas up early! Pouring clean and clear with a bright golden hue, this refreshing brew brims with aromas of stone fruit and citrus. A dash of late hopping adds subtle tropical notes, perfect for sunny days and barbecues. Slow fermentation using traditional lager yeast brings delicate floral notes to the palate as the warm Aussie sun sinks below the horizon.&nbsp; See T&amp;Cs for full details. **","").replace("  "," ").replace("..",".").trim()}</p>
                             </Link>
-                            <p className="mt-2 text-base dark:text-white/70">Average Rating: {item.primaryRating.toFixed(1)}/5 stars<br></br>Recommended by {item.recommended} people</p>
+                            {item.primaryRating != 0 && item.recommended != 0 && (
+                                <p className="mt-2 text-base dark:text-white/70">
+                                    Average Rating: {item.primaryRating.toFixed(1)}/5 stars<br></br>
+                                    Recommended by {item.recommended} {item.recommended == 1 ? 'person' : 'people'}
+                                </p>
+                            )}
                             <p className="mt-2 text-base dark:text-white/70">Alcohol by Volume: {item.alcoholByVolume}%<br></br>Colour: {item.colour}<br></br>Bitterness: {item.bitterness}</p>
                             <p className="mt-2 text-base dark:text-white/70">Brewing Program: {item.brewingProgram.includes("Custom") ? 'Custom' : item.brewingProgram}<br></br>Approximate Brewing Time: {item.approximateBrewingTime}</p>
                             {/* <p className="mt-2 text-base dark:text-white/70">Brew Notes: {item.brewNotes}</p> */}

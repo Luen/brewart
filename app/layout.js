@@ -4,8 +4,8 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'BrewArt Brewprints',
-  description: 'Comparing all the brewprints',
+  title: 'BrewArt Brewprints Brewing Recipes & Ingredients',
+  description: 'Comparing all the brewprints and recipes for home brewing.',
 }
 
 export default function RootLayout({ children }) {
