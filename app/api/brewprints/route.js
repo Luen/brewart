@@ -1,6 +1,10 @@
 import { NextResponse } from 'next/server';
 import { getBrewprints } from '@/lib/brewprints'
 
+export const dynamic = 'force-static'
+export const revalidate = 604800
+export const dynamicParams = false
+
 export async function GET(req, res) {
   try {
     const brewprints = await getBrewprints();
