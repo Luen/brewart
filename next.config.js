@@ -5,15 +5,11 @@ const nextConfig = {
         locales: ['en-AU', 'en-US'],
         defaultLocale: 'en-AU',
         domains: [
-            {
-              domain: 'brewart.com',
-              defaultLocale: 'en-AU',
-            },
-            {
-              domain: 'brewart.com.au',
-              defaultLocale: 'en-AU',
-            },
-          ],
+          {
+            domain: 'brewart.com.au',
+            defaultLocale: 'en-AU',
+          },
+        ],
     }
 }
 
