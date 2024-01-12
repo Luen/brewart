@@ -81,7 +81,7 @@ export default function BrewprintsClient({ initialBrewprints = [] }) {
     }
 
     return (
-        <section className="mt-6 mx-auto max-w-3xl">
+        <section id="brewprints" className="mt-6 mx-auto max-w-3xl">
             <h2 className="text-4xl font-bold dark:text-white/90">Brewprints</h2>
             <div className="flex justify-center gap-4 my-4">
                 <button onClick={sortAlphabetically} className="px-4 py-2 bg-gray-500 text-white font-semibold rounded-lg shadow-md hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-opacity-75">
@@ -130,7 +130,7 @@ export default function BrewprintsClient({ initialBrewprints = [] }) {
                             </p>
                         </div>
                         <div className="flex flex-col items-end">
-                            <p className="text-xl font-bold dark:text-white/90">Brewprint: ${item.price}<br></br>Ingredients: ${item.totalPriceOfIngredients}
+                            <p className="text-xl font-bold dark:text-white/90">Brewprint: ${item.price}<br></br>Ingredients: ${item.totalPriceOfIngredients}<br></br>
                             <span className="mt-2 text-sm dark:text-white/70">{item.price > item.totalPriceOfIngredients ? "Cheaper buying ingredients individually" : "Cheaper buying Brewprint"}</span></p>
                         </div>
                     </div>

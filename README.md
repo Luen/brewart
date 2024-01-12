@@ -15,11 +15,12 @@ https://brewing.luenwarneke.com/api/ingredients
 - Get proper icon image.
 - Fix bug: Make sure all brewprints are listed.
 - Add in Country of Origin.
-- Add in Elements: Colour, Malt Flavour, Bitterness
-- ENHANCERS: Colour, Enhancement, Style
-- HOPS	 Cost		Flavour & Aroma	Beer Style Pairing	Similar Hop
-- YEAST	 Cost		Flavour & Aroma	Beer Style Pairing	Clarity
-- OILS				DRY  HOPS	
+- Add in 
+	- Elements: Colour, Malt Flavour, Bitterness
+	- ENHANCERS: Colour, Enhancement, Style
+	- HOPS: Flavour & Aroma Beer Style Pairing Similar Hop
+	- YEAST: Flavour & Aroma Beer Style Pairing	Clarity
+	- OILS & DRY HOPS
 
 # Notes
 

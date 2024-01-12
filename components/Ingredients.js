@@ -11,7 +11,7 @@ export default async function Ingredients() {
     ingredients = ingredients.filter(item => item.name !== "");
 
     return (
-        <section className="mt-6 mx-auto max-w-2xl">
+        <section id="ingredients" className="mt-6 mx-auto max-w-2xl">
             <h2 className="text-4xl font-bold dark:text-white/90">Ingredients</h2>
             <div className="grid grid-cols-2 gap-4 mt-6">
                 {ingredients.map((item, index) => (
@@ -22,7 +22,7 @@ export default async function Ingredients() {
                                 <p className="mt-2 text-base dark:text-white/70">{item.shortDescription}</p>
                                 <img src={item.image} alt={item.name} className="w-full h-auto mt-2" />
                             </Link>
-                            <p className="mt-2 text-base dark:text-white/70">{item.longDescription.replace("  ","<br>")}</p>
+                            <p className="mt-2 text-base dark:text-white/70">{item.longDescription.replace("&nbsp;","<br>").replace("  ","<br>")}</p>
                         </div>
                         <div className="flex flex-col items-end">
                             <p className="text-xl font-bold dark:text-white/90">${item.price}</p>

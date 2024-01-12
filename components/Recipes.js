@@ -4,7 +4,7 @@ export default async function Recipes() {
     const brewsArray = Object.entries(recipesClones).map(([name, ingredients]) => ({ name, ingredients }));
 
     return (
-        <section className="mt-6 mx-auto max-w-4xl">
+        <section id="recipes" className="mt-6 mx-auto max-w-4xl">
             <h2 className="text-4xl font-bold dark:text-white/90">Clones</h2>
             <div className="grid grid-cols-3 gap-4 mt-6">
                 {brewsArray.map((brew, index) => (
