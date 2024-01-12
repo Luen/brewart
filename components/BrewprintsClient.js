@@ -48,10 +48,10 @@ export default function BrewprintsClient({ initialBrewprints = [] }) {
             <h2 className="text-4xl font-bold dark:text-white/90">Brewprints</h2>
             <div className="flex justify-center gap-4 my-4">
                 <button onClick={sortAlphabetically} className="px-4 py-2 bg-gray-500 text-white font-semibold rounded-lg shadow-md hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-opacity-75">
-                    Sort Alphabetically
+                    {isAlphabeticalAsc ? 'Sort Alphabetically (Asc)' : 'Sort Alphabetically (Desc)'}
                 </button>
                 <button onClick={sortByPrice} className="px-4 py-2 bg-gray-500 text-white font-semibold rounded-lg shadow-md hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-opacity-75">
-                    Sort by Price
+                    {isPriceAsc ? 'Sort by Price (Asc)' : 'Sort by Price (Desc)'}
                 </button>
                 <button onClick={sortByAlcoholVolume} className="px-4 py-2 bg-gray-500 text-white font-semibold rounded-lg shadow-md hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-opacity-75">
                     {isAlcoholVolumeAsc ? 'Sort by Alcohol Volume (Asc)' : 'Sort by Alcohol Volume (Desc)'}
