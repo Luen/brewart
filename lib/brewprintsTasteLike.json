@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Birra Italiano",
+        "tastesLike": "Birra Moretti"
+    },
+    {
+        "name": "Czech Pils",
+        "tastesLike": "Budvar"
+    },
+    {
+        "name": "Lion City Larger",
+        "tastesLike": "Tiger"
+    },
+    {
+        "name": "Tall Tale Ale",
+        "tastesLike": "Furphy"
+    },
+    {
+        "name": "Jolly Roger Pale Ale",
+        "tastesLike": "Pirate Life"
+    },
+    {
+        "name": "Belgian Larger",
+        "tastesLike": "Stella"
+    },
+    {
+        "name": "Top End Crisp Larger",
+        "tastesLike": "Great Northern mid"
+    },
+    {
+        "name": "The Point IPA",
+        "tastesLike": "Ballast Point"
+    },
+    {
+        "name": "Mountain Range IPA",
+        "tastesLike": "Sierra Nevada"
+    },
+    {
+        "name": "Four Leaf Stout",
+        "tastesLike": "Guinness"
+    },
+    {
+        "name": "Lighthouse Pacific Pale",
+        "tastesLike": "Stone and Wood"
+    },
+    {
+        "name": "Australian Premium Lager",
+        "tastesLike": "Han"
+    },
+    {
+        "name": "The G-O-A-T Amber Ale",
+        "tastesLike": "Goat Amber"
+    }
+]

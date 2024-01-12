@@ -68,8 +68,12 @@ export default function BrewprintsClient({ initialBrewprints = [] }) {
 
     const sortByBrewingTime = () => {
         const sorted = [...brewprints].sort((a, b) => {
-            const timeA = parseFloat(a.approximateBrewingTime.split('-')[0]);
-            const timeB = parseFloat(b.approximateBrewingTime.split('-')[0]);
+            const timeAMin = parseFloat(a.approximateBrewingTime.split('-')[0]);
+            const timeAMax = parseFloat(a.approximateBrewingTime.split('0')[0].split('-').pop());
+            const timeBMin = parseFloat(b.approximateBrewingTime.split('-')[0]);
+            const timeBMax = parseFloat(b.approximateBrewingTime.split('0')[0].split('-').pop());
+            const timeA = (timeAMin + timeAMax) / 2;
+            const timeB = (timeBMin + timeBMax) / 2;
             return isBrewingTimeAsc ? timeA - timeB : timeB - timeA;
         });
         setBrewprints(sorted);
@@ -96,7 +100,7 @@ export default function BrewprintsClient({ initialBrewprints = [] }) {
                     {isColourAsc ? 'Sort by Colour (Asc)' : 'Sort by Colour (Desc)'}
                 </button>
                 <button onClick={sortByBrewingTime} className="px-4 py-2 bg-gray-500 text-white font-semibold rounded-lg shadow-md hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-opacity-75">
-                    {isBrewingTimeAsc ? 'Sort by Brewing Time (Asc)' : 'Sort by Brewing Time (Desc)'}
+                    {isBrewingTimeAsc ? 'Sort by Avg Brewing Time (Asc)' : 'Sort by Avg Brewing Time (Desc)'}
                 </button>
             </div>
             <div className="grid grid-cols-2 gap-4 mt-6">
@@ -111,8 +115,11 @@ export default function BrewprintsClient({ initialBrewprints = [] }) {
                             </Link>
                             <p className="mt-2 text-base dark:text-white/70">Average Rating: {item.primaryRating}/5 stars<br></br>Recommended by {item.recommended} people</p>
                             <p className="mt-2 text-base dark:text-white/70">Alcohol by Volume: {item.alcoholByVolume}%<br></br>Colour: {item.colour}<br></br>Bitterness: {item.bitterness}</p>
-                            <p className="mt-2 text-base dark:text-white/70">Brewing Program: {item.brewingProgram}<br></br>Approximate Brewing Time: {item.approximateBrewingTime}</p>
+                            <p className="mt-2 text-base dark:text-white/70">Brewing Program: {item.brewingProgram.includes("Custom") ? 'Custom' : item.brewingProgram}<br></br>Approximate Brewing Time: {item.approximateBrewingTime}</p>
                             {/* <p className="mt-2 text-base dark:text-white/70">Brew Notes: {item.brewNotes}</p> */}
+                            {item.tastesLike && (
+                                <p className="mt-2 text-base dark:text-white/70">Tastes Like: {item.tastesLike}</p>
+                            )}
                             <p className="mt-2 text-base dark:text-white/70">
                                 Inside The Box:<br></br>{
                                     [item.insideTheBox.elements, item.insideTheBox.enhancers, item.insideTheBox.hops, item.insideTheBox.yeasts, item.insideTheBox.primers]

@@ -16,23 +16,9 @@ http://localhost:3000/api/ingredients
 
 # Notes
 
-Birra - Birra Moretti
-Czech - Budvar
-Lion City - Tiger
-Tall Tale - Furphy
-Jolly Rogers - Pirate Life
-Belgian - Stella ( But Belgian is so much nicer)
-Top End - Great Northern mid
-Point - Ballast Point 
-High Mountain - Sierra Nevada
-4 clover - Guinness
-Lighthouse Ale - Stone and Wood
-Australian Premium Lager - Han
-Goat Mountain - Goat amber
+Tastes Like Credit: https://community.brewart.com/topic/434-commercial-beer-brewprints-equivalents/
 
-
-
-https://1drv.ms/x/s!AqvXSchvhqGUqjT3xCIjx4eUb7Wx
+Recipes Clones Credit: https://1drv.ms/x/s!AqvXSchvhqGUqjT3xCIjx4eUb7Wx
 
 
 E1	E2	E3	E4	E5	X1	X2	X3	X4	X5	H1	H2	H3	H4	H5	H6	H7	H8	H9	D1	D2	D3	D4	D5	D6	D7	D8	Y1	Y2	Y3	Y4	Y5	Y6	Y7	Y8	Y9	P	DC
