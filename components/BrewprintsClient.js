@@ -131,7 +131,7 @@ export default function BrewprintsClient({ initialBrewprints = [] }) {
                                         .filter(arr => arr.length)
                                         .map(arr => arr.join(", "))
                                         .join(", ")
-                                }, Droid Cleanse
+                                }, { item.insideTheBox.C }
                             </p>
                         </div>
                         <div className="flex flex-col items-end">

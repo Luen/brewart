@@ -12,6 +12,7 @@ https://brewing.luenwarneke.com/api/ingredients
 
 # TO DO
 
+- Refactor scrapers.
 - Get proper icon image.
 - Fix bug: Make sure all brewprints are listed.
 - Add in Country of Origin.

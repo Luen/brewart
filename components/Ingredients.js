@@ -4,7 +4,6 @@ import Link from 'next/link'
 export default async function Ingredients() {
     let response = await getIngredients();
 
-    // Assuming getIngredients returns an object with a 'products' key that contains an array of ingredients
     let ingredients = response;
 
     // remove items with blank name for testing
