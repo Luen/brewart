@@ -7,6 +7,8 @@ https://brewing.luenwarneke.com/
 
 https://brewing.luenwarneke.com/api/brewprints
 
+https://brewing.luenwarneke.com/api/recipes
+
 https://brewing.luenwarneke.com/api/ingredients
 
 
@@ -16,7 +18,7 @@ https://brewing.luenwarneke.com/api/ingredients
 - Get proper icon image.
 - Fix bug: Make sure all brewprints are listed.
 - Add in Country of Origin.
-- Add in 
+- Add in keywords below
 	- Elements: Colour, Malt Flavour, Bitterness
 	- ENHANCERS: Colour, Enhancement, Style
 	- HOPS: Flavour & Aroma Beer Style Pairing Similar Hop

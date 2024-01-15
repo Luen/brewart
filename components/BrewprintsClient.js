@@ -109,7 +109,7 @@ export default function BrewprintsClient({ initialBrewprints = [] }) {
                         <div>
                             <Link href={item.url}>
                                 <h3 className="text-xl font-bold dark:text-white/90">{item.name}</h3>
-                                <p className="mt-2 text-base dark:text-white/70">{item.shortDescription.replace("-tsar","-star")}</p>
+                                <p className="mt-2 text-base dark:text-white/70">{item.shortDescription}</p>
                                 <img src={item.imageBanner} alt={item.name} className="w-full h-auto mt-2" />
                                 <p className="mt-2 text-base dark:text-white/70">{item.longDescription.replace("PLEASE NOTE: This BrewPrint contains Dry Hops! The Dry Hop Filter is required to filter out hop debris.","").replace("** For a Limited Time only the Australian Lager BrewPrint comes with a BONUS Christmas gift wrap, so you can wrap Christmas up early!&nbsp; See T&amp;Cs for full details. **","").replace("  "," ").replace("..",".").trim()}</p>
                             </Link>
@@ -120,7 +120,7 @@ export default function BrewprintsClient({ initialBrewprints = [] }) {
                                 </p>
                             )}
                             <p className="mt-2 text-base dark:text-white/70">Alcohol by Volume: {item.alcoholByVolume}%<br></br>Colour: {item.colour}<br></br>Bitterness: {item.bitterness}</p>
-                            <p className="mt-2 text-base dark:text-white/70">Brewing Program: {item.brewingProgram.includes("Custom") ? 'Custom' : item.brewingProgram}<br></br>Approximate Brewing Time: {item.approximateBrewingTime}</p>
+                            <p className="mt-2 text-base dark:text-white/70">Brewing Program: {item.brewingProgram.includes("Custom") || (item.brewingProgram !== 'Ale' && item.brewingProgram !== 'Lager') ? 'Custom' : item.brewingProgram}<br></br>Approximate Brewing Time: {item.approximateBrewingTime}</p>
                             {/* <p className="mt-2 text-base dark:text-white/70">Brew Notes: {item.brewNotes}</p> */}
                             {item.tastesLike && (
                                 <p className="mt-2 text-base dark:text-white/70">Tastes Like: {item.tastesLike}</p>
@@ -133,6 +133,7 @@ export default function BrewprintsClient({ initialBrewprints = [] }) {
                                         .join(", ")
                                 }, { item.insideTheBox.C }
                             </p>
+                            <p className="mt-2 text-base dark:text-white/70">Country of Origin(s): {item.countryOfOrigin}</p>
                         </div>
                         <div className="flex flex-col items-end">
                             <p className="text-xl font-bold dark:text-white/90">Brewprint: ${item.price}<br></br>Ingredients: ${item.totalPriceOfIngredients}<br></br>
