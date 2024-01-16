@@ -1,0 +1,181 @@
+{
+    "Elements": {
+        "E1": {
+            "Colour": "Minimal",
+            "Malt Flavour": "Grainy",
+            "Bitterness": "Moderate"
+        },
+        "E2": {
+            "Colour": "Medium",
+            "Malt Flavour": "Sweet Biscuity",
+            "Bitterness": "Medium"
+        },
+        "E3": {
+            "Colour": "Full",
+            "Malt Flavour": "Sweet Roasted",
+            "Bitterness": "Medium-Firm"
+        },
+        "E4": {
+            "Colour": "Deep",
+            "Malt Flavour": "Roasted",
+            "Bitterness": "Firm"
+        },
+        "E5": {
+            "Colour": "Minimal",
+            "Malt Flavour": "Subtle",
+            "Bitterness": "Medium-Firm"
+        }
+    },
+    "Enhancers": {
+        "X1": {
+            "Type": "Light Dry Malt",
+            "Colour": "Minimal",
+            "Enhancement": "Grainy, Sweet",
+            "Style": "Body"
+        },
+        "X2": {
+            "Type": "Wheat Dry Malt",
+            "Colour": "Minimal",
+            "Enhancement": "Soft Mouthfeel",
+            "Style": "Lighter"
+        },
+        "X3": {
+            "Type": "Amber Dry Malt",
+            "Colour": "Moderate",
+            "Enhancement": "Rich Toffee",
+            "Style": "Sweeter"
+        },
+        "X4": {
+            "Type": "Dark Dry Malt",
+            "Colour": "Deep",
+            "Enhancement": "Roast Coffee, Chocolate",
+            "Style": "Darker"
+        },
+        "X5": {
+            "Type": "Dextrose",
+            "Colour": "NIL",
+            "Enhancement": "NIL",
+            "Style": "Alcohol"
+        }
+    },
+    "Hop Oils": {
+        "H1": {
+            "Flavour & Aroma": "Citrus & Floral",
+            "Beer Style Pairing": "Firm Bitterness",
+            "Similar Hop": "Amarillo"
+        },
+        "H2": {
+            "Flavour & Aroma": "Resinous, Bold & Floral",
+            "Beer Style Pairing": "Assertive Bitter Flavour",
+            "Similar Hop": "Centennial"
+        },
+        "H3": {
+            "Flavour & Aroma": "Subtle Herbal & Ester",
+            "Beer Style Pairing": "Soft Finish",
+            "Similar Hop": "Hallertau"
+        },
+        "H4": {
+            "Flavour & Aroma": "Herbal & Spicy",
+            "Beer Style Pairing": "Firm Bitterness",
+            "Similar Hop": "Saaz"
+        },
+        "H5": {
+            "Flavour & Aroma": "Floral & Herbal",
+            "Beer Style Pairing": "Clean Finish",
+            "Similar Hop": "Hersbrucker"
+        },
+        "H6": {
+            "Flavour & Aroma": "Passionfruit & Stonefruit",
+            "Beer Style Pairing": "",
+            "Similar Hop": "Galaxy"
+        },
+        "H7": {
+            "Flavour & Aroma": "Herbal & Fruit, Toffee & Biscuit",
+            "Beer Style Pairing": "",
+            "Similar Hop": "Challenger"
+        },
+        "H8": {
+            "Flavour & Aroma": "Zingy Orange Peel & Corriander",
+            "Beer Style Pairing": "",
+            "Similar Hop": "Bitter Orange Peel and Coriander Seed"
+        },
+        "H9": {
+            "Flavour & Aroma": "Spicy & Fruit",
+            "Beer Style Pairing": "Deep colour, Mod Bitterness",
+            "Similar Hop": "Cascade"
+        }
+    },
+    "Dry Hops": {
+        "D1": {
+            "Type": "Cascade"
+        },
+        "D2": {
+            "Type": "Centennial"
+        },
+        "D3": {
+            "Type": "Chinook"
+        },
+        "D4": {
+            "Type": "Simcoe"
+        },
+        "D5": {
+            "Type": "Amarillo"
+        },
+        "D6": {
+            "Type": "Citra"
+        },
+        "D7": {
+            "Type": "Galaxy"
+        },
+        "D8": {
+            "Type": "Mosaic"
+        }
+    },
+    "Yeast": {
+        "Y1": {
+            "Flavour & Aroma": "Subtle Ester",
+            "Beer Style Pairing": "Highlights Hops",
+            "Clarity": "Clear"
+        },
+        "Y2": {
+            "Flavour & Aroma": "Fruity & Ester",
+            "Beer Style Pairing": "Heavily Bittered",
+            "Clarity": "Slight Cloudy"
+        },
+        "Y3": {
+            "Flavour & Aroma": "Neutral",
+            "Beer Style Pairing": "Vigorous Ferment",
+            "Clarity": "Clear"
+        },
+        "Y4": {
+            "Flavour & Aroma": "Clean Malt & Hop",
+            "Beer Style Pairing": "Clear Ales",
+            "Clarity": "Clear"
+        },
+        "Y5": {
+            "Flavour & Aroma": "Banana & Clove",
+            "Beer Style Pairing": "Wheat",
+            "Clarity": "Slight Cloudy"
+        },
+        "Y6": {
+            "Flavour & Aroma": "Phenolic, Peppery, Banana",
+            "Beer Style Pairing": "",
+            "Clarity": "Slight Cloudy"
+        },
+        "Y7": {
+            "Flavour & Aroma": "Clean",
+            "Beer Style Pairing": "",
+            "Clarity": "Clear"
+        },
+        "Y8": {
+            "Flavour & Aroma": "Neutral",
+            "Beer Style Pairing": "",
+            "Clarity": "Clear"
+        },
+        "Y9": {
+            "Flavour & Aroma": "Subtle Fruity & Ester",
+            "Beer Style Pairing": "",
+            "Clarity": "Clear"
+        }
+    }
+}

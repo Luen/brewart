@@ -8,7 +8,7 @@ export async function GET(req, res) {
   try {
     const recipes = require('@/lib/recipesClones.json');
 
-    return NextResponse.json({ recipes });
+    return NextResponse.json(recipes);
   } catch (error) {
     console.error(error);
     return NextResponse.json({ message: "Error fetching data" });

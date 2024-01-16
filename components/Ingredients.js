@@ -23,6 +23,15 @@ export default async function Ingredients() {
                             </Link>
                             <p className="mt-2 text-base dark:text-white/70">{item.longDescription}</p>
                             <p className="mt-2 text-base dark:text-white/70">Country of Origin: {item.countryOfOrigin}</p>
+                            {(item.info && Object.keys(item.info).length > 0) &&
+                                <p className="mt-2 text-base dark:text-white/70">Info: 
+                                    <ul>
+                                        {Object.keys(item.info).map(key => (
+                                            <li key={key}>{key}: {item.info[key]}</li>
+                                        ))}
+                                    </ul>
+                                </p>
+                            }
                         </div>
                         <div className="flex flex-col items-end">
                             <p className="text-xl font-bold dark:text-white/90">${item.price}</p>

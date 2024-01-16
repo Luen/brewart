@@ -8,7 +8,7 @@ export const dynamicParams = false
 export async function GET(req, res) {
   try {
     const products = await getIngredients();
-    return NextResponse.json({ products });
+    return NextResponse.json(products);
   } catch (error) {
     console.error(error);
     return NextResponse.json({ message: "Error fetching data" });
