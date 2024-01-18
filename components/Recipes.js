@@ -27,7 +27,7 @@ export default async function Recipes() {
     return (
         <section id="recipes" className="mt-6 mx-auto max-w-4xl">
             <h2 className="text-4xl font-bold dark:text-white/90">Commercial Clones</h2>
-            <div className="grid grid-cols-3 gap-4 mt-6">
+            <div className="grid grid-cols-2 gap-4 mt-6">
                 {Object.entries(recipesClones).map(([name, brew], index) => (
                     <div key={index} className="flex flex-col justify-between p-4 bg-white rounded-lg shadow-lg dark:bg-gray-800">
                         {brew.link && (
@@ -40,6 +40,8 @@ export default async function Recipes() {
                         )}
                         <p className="text-base dark:text-white/70">{brew.description}</p>
                         <p className="mt-2 text-base dark:text-white/70">Ingredients:<br/>{brew.ingredients.join(', ')}</p>
+                        {(brew.brewingProgram) && <p className="mt-2 text-base dark:text-white/70">Notes:<br/>{brew.brewingProgram}</p>}
+                        {(brew.instructions) && <p className="mt-2 text-base dark:text-white/70">Instructions:<br/>{brew.instructions}</p>}
                         <p className="text-xl font-bold dark:text-white/90">Cost: ${calculatePrice(brew.ingredients)}</p>
                     </div>
                 ))}

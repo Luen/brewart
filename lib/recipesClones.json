@@ -1,6 +1,6 @@
 {
     "Pirate Life IPA": {
-        "link": "https://www.piratelife.com.au/beers/ipa",
+        "link": "",
         "description": "Our flagship beer. The beer that inspired this crazy journey. Our take on an American IPA. Pine, punchy and assertive. Solid malt background and huge hop flavours with pine and citrus characters.",
         "ingredients": [
             "E1",
@@ -13,10 +13,12 @@
             "H2",
             "H2",
             "Y1"
-        ]
+        ],
+        "instructions": "",
+        "brewingProgram": ""
     },
     "Pirate Life Throwback IPA": {
-        "link": "https://www.piratelife.com.au",
+        "link": "",
         "description": "A mid-strength IPA that's big on flavour. Pine, punchy and assertive. Solid malt background and huge hop flavours with pine and citrus characters.",
         "ingredients": [
             "E5",
@@ -28,10 +30,12 @@
             "H6",
             "H6",
             "Y1"
-        ]
+        ],
+        "instructions": "",
+        "brewingProgram": ""
     },
     "Hop Nation Jedi Juice": {
-        "link": "http://www.hopnation.com.au",
+        "link": "",
         "description": "A hazy, juicy IPA with a restrained bitterness and a punchy, fruit-forward hop character. Brewed with oats and wheat and left unfiltered for a smooth juicy hit.",
         "ingredients": [
             "E1",
@@ -40,10 +44,12 @@
             "E1",
             "X2",
             "Y2"
-        ]
+        ],
+        "instructions": "",
+        "brewingProgram": ""
     },
     "BrewDog Punk IPA": {
-        "link": "https://www.brewdog.com",
+        "link": "",
         "description": "This transatlantic fusion IPA is light golden in colour with tropical fruits and light caramel on the nose. The palate soon becomes assertive and resinous with the New Zealand hops balanced by the biscuit malt. The finish is aggressive and dry with the hops emerging over the warming alcohol.",
         "ingredients": [
             "E1",
@@ -53,10 +59,12 @@
             "X1",
             "X1",
             "Y1"
-        ]
+        ],
+        "instructions": "",
+        "brewingProgram": ""
     },
     "Mountain Goat Fancy Pants": {
-        "link": "http://www.goatbeer.com.au",
+        "link": "",
         "description": "A hoppy American style Amber Ale. The malt base is a blend of Pale, Munich and Crystal malts with a touch of wheat. The hops are a blend of American and Australian hops. The beer is fermented with an American Ale yeast which contributes to the clean flavour and aroma.",
         "ingredients": [
             "E2",
@@ -65,10 +73,12 @@
             "X2",
             "X3",
             "Y7"
-        ]
+        ],
+        "instructions": "",
+        "brewingProgram": ""
     },
     "Seirra Nevada Torpedo": {
-        "link": "https://sierranevada.com",
+        "link": "",
         "description": "Sierra Nevada and hops go hand in hand. What began as a crazy idea scribbled in a pub eventually became our newest year-round hop bomb, Torpedo Extra IPA. The first beer to feature our \"Hop Torpedo\"—a revolutionary dry-hopping device that controls how much hop aroma is imparted into beer without adding additional bitterness. Torpedo Extra IPA is an aggressive yet balanced beer with massive hop aromas of citrus, pine, and tropical fruit.",
         "ingredients": [
             "E1",
@@ -81,10 +91,12 @@
             "H2",
             "H2",
             "Y1"
-        ]
+        ],
+        "instructions": "",
+        "brewingProgram": ""
     },
     "Stone & Wood Pacific Ale": {
-        "link": "https://www.stoneandwood.com.au",
+        "link": "https://community.brewart.com/topic/234-stone-and-wood-pacific-ale/",
         "description": "Inspired by our home on the edge of the Pacific Ocean and brewed using all Australian barley, wheat and Galaxy hops, Pacific Ale is cloudy and golden with a big fruity aroma and a refreshing finish. After being dry hopped at the end of fermentation, Stone & Wood Pacific Ale is then drawn straight from the storage tank at the brewery into kegs for your pleasure.",
         "ingredients": [
             "E1",
@@ -92,11 +104,15 @@
             "E5",
             "E5",
             "X1",
-            "Y2"
-        ]
+            "Y2",
+            "H6",
+            "H6"
+        ],
+        "instructions": "You can then set the hop function to yes and it will tell you when to add the hops. Recommended D7 dry hops addition - 30g of Galaxy and 30g of either Citra or Mosaic. Dry hop at day 5 and expect a 10 day fermentation. \n\nWait for 6 weeks (including the 2 weeks carbonation), as, at 4 weeks, some further maturity is beneficial.",
+        "brewingProgram": "Ale or Propagation 21°C, Fermentation 17°C, Keg 18°C, Store 4°C."
     },
     "Little Creatures Bright Ale": {
-        "link": "https://littlecreatures.com.au",
+        "link": "",
         "description": "A refreshing summer style beer, our Bright Ale is brewed using a blend of barley and wheat malts. It's fermented with a clean, neutral strain of yeast which allows the subtle malt and hop characters to shine through. The beer is then dry hopped with a selection of our favourite hop varieties to add a vibrant floral and citrus aroma.",
         "ingredients": [
             "E1",
@@ -107,10 +123,12 @@
             "H6",
             "H6",
             "Y1"
-        ]
+        ],
+        "instructions": "",
+        "brewingProgram": ""
     },
     "Brad's Black Beauty (Black DIPA)": {
-        "link": "https://untappd.com/b/brad-s-homebrew-brad-s-big-black-ipa/311157",
+        "link": "",
         "description": "A big, black, hoppy beer. Aroma of citrus and pine. Flavour of roasted malt, coffee and chocolate. Big hop bitterness and flavour.",
         "ingredients": [
             "E1",
@@ -123,7 +141,9 @@
             "H6",
             "H6",
             "Y1"
-        ]
+        ],
+        "instructions": "",
+        "brewingProgram": ""
     },
     "Liam The Elder DIPA (Pliny)": {
         "link": "",
@@ -136,7 +156,9 @@
             "E5",
             "X1",
             "Y1"
-        ]
+        ],
+        "instructions": "",
+        "brewingProgram": ""
     },
     "Copper Ale": {
         "link": "",
@@ -151,10 +173,12 @@
             "X5",
             "H6",
             "Y7"
-        ]
+        ],
+        "instructions": "",
+        "brewingProgram": ""
     },
     "Yeastie Boys Gunnamatta Earl Grey IPA": {
-        "link": "http://www.yeastieboys.co.nz",
+        "link": "",
         "description": "Gunnamatta Earl Grey IPA is a new world India Pale Ale with subtle aromas of tea and grapefruit, brewed with the addition of Earl Grey Blue Flower tea. A firm malt base balances out the hops and tea to create a dangerously drinkable IPA.",
         "ingredients": [
             "E1",
@@ -165,7 +189,9 @@
             "X1",
             "H6",
             "Y1"
-        ]
+        ],
+        "instructions": "",
+        "brewingProgram": ""
     },
     "Mango Session IPA": {
         "link": "",
@@ -178,7 +204,9 @@
             "H2",
             "H2",
             "Y1"
-        ]
+        ],
+        "instructions": "",
+        "brewingProgram": ""
     },
     "Watermelon Gose": {
         "link": "",
@@ -189,7 +217,9 @@
             "X1",
             "X1",
             "Y1"
-        ]
+        ],
+        "instructions": "",
+        "brewingProgram": ""
     },
     "Grapefruit IPA": {
         "link": "",
@@ -202,6 +232,35 @@
             "H7",
             "H7",
             "Y2"
-        ]
+        ],
+        "instructions": "",
+        "brewingProgram": ""
+    },
+    "High Alcohol Stout": {
+        "link": "https://community.brewart.com/topic/1114-high-alcohol-stout/",
+        "description": "15% Stout",
+        "ingredients": [
+            "E1",
+            "E3",
+            "E3",
+            "E4",
+            "E4",
+            "E5",
+            "E5",
+            "E5",
+            "X1",
+            "X1",
+            "X2",
+            "X4",
+            "X5",
+            "H2",
+            "H2",
+            "Y1",
+            "P",
+            "P",
+            "C"
+        ],
+        "instructions": "Buy the Kremlin Russian Imperial Stout BrewPrint as a base. The base ABV is 9.5% and if bottling this and adding sugar/drops, you'll get another 0.5% which means 10%. Given each ingredient, Element or Enhancer, adds ~1%, add 2 to 4 of X5 Dextrose to increase desired ABV. To get 12%, go with 1x X1 and 1x E3 or E5. To get, 14%, then 1x X5, 1x X1, 1x E3 and 1x E5. You shouldn't taste the dextrose at all with all that flavour and by choosing more moderate more moderate flavours, you'll not end up with something that's too over the top in terms of flavour. I'd also stick with the suggested 9l of water and this will definitely be a brew that will overflow out the port in the lid, what many of us call, the \"spew port\".",
+        "brewingProgram": "Ale"
     }
 }
