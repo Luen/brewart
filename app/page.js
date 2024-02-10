@@ -21,6 +21,6 @@ export default function Home() {
       <BrewprintsServer />
       <Recipes />
       <Ingredients />
-    </main >
+    </main>
   )
 }

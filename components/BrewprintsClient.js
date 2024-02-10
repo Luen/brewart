@@ -127,11 +127,12 @@ export default function BrewprintsClient({ initialBrewprints = [] }) {
                             )}
                             <p className="mt-2 text-base dark:text-white/70">
                                 Inside The Box:<br></br>{
-                                    [item.insideTheBox.elements, item.insideTheBox.enhancers, item.insideTheBox.hops, item.insideTheBox.yeasts, item.insideTheBox.primers]
-                                        .filter(arr => arr.length)
-                                        .map(arr => arr.join(", "))
-                                        .join(", ")
-                                }, { item.insideTheBox.C }
+                                    ['cleanses', 'yeasts', 'elements', 'enhancers', 'hops', 'dryHops', 'primers']
+                                    .map(key => item.insideTheBox[key]) // Get the array from each key
+                                    .filter(arr => Array.isArray(arr) && arr.length) // Ensure it's an array and has length
+                                    .map(arr => arr.join(", ")) // Join each array's elements into a string
+                                    .join(", ") // Join all strings into one, separated by commas
+                                }
                             </p>
                             <p className="mt-2 text-base dark:text-white/70">Country of Origin(s): {item.countryOfOrigin}</p>
                         </div>

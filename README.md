@@ -3,6 +3,8 @@ Brewart Beerdroid Brewprints and clone recipes
 
 https://brewing.luenwarneke.com/
 
+Note: This was a learning exercise - first time using NextJS.
+
 # Contribute
 
 Feel free to add Clone Recipes to this file in JSON: lib/recipesClones.json
