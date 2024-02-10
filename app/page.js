@@ -9,7 +9,7 @@ export default function Home() {
         BeerArt BeerDroid Brewprints, Ingredients, & Commercial Beer Clones
       </h1>
       <p className="mb-12 text-base text-center dark:text-white">
-        This is a fan site for the BrewArt BeerDroid. It is not affiliated with BrewArt.
+        This is a fan site for the BrewArt BeerDroid. It is not affiliated with BrewArt. See the <a href="https://github.com/Luen/brewart">GitHub Repo</a>.
         The BrewArt BeerDroid is an automated brewing system that allows you to brew beer at home.
         This site provides a list of Brewprints, Commercial Clone Recipes, and Ingredients.
       </p>
