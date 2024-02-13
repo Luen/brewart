@@ -111,7 +111,7 @@ export default function BrewprintsClient({ initialBrewprints = [] }) {
                                 <h3 className="text-xl font-bold dark:text-white/90">{item.name}</h3>
                                 <p className="mt-2 text-base dark:text-white/70">{item.shortDescription}</p>
                                 <img src={item.imageBanner} alt={item.name} className="w-full h-auto mt-2" />
-                                <p className="mt-2 text-base dark:text-white/70">{item.longDescription.replace("PLEASE NOTE: This BrewPrint contains Dry Hops! The Dry Hop Filter is required to filter out hop debris.","").replace("** For a Limited Time only the Australian Lager BrewPrint comes with a BONUS Christmas gift wrap, so you can wrap Christmas up early!&nbsp; See T&amp;Cs for full details. **","").replace("  "," ").replace("..",".").trim()}</p>
+                                <p className="mt-2 text-base dark:text-white/70">{item.longDescription.replace("PLEASE NOTE: This BrewPrint contains Dry Hops! The Dry Hop Filter is required to filter out hop debris.","").replace("** For a Limited Time only the Australian Lager BrewPrint comes with a BONUS Christmas gift wrap, so you can wrap Christmas up early!&nbsp; See T&amp;Cs for full details. **","").replaceAll(/  /g," ").replaceAll(/\.\./g,".").trim()}</p>
                             </Link>
                             {item.primaryRating != 0 && item.recommended != 0 && (
                                 <p className="mt-2 text-base dark:text-white/70">
