@@ -1,16 +1,3 @@
 {
-    "version": 2,
-    "builds": [
-        {
-        "src": "next.config.js",
-        "use": "@vercel/next"
-        }
-    ],
-    "routes": [
-        {
-        "src": "/(.*)",
-        "dest": "/"
-        }
-    ],
-    "regions": ["hnd1", "syd1"]
+    "regions": ["syd1"]
 }
