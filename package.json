@@ -1,23 +1,23 @@
 {
-  "name": "Brewrprints",
+  "name": "brewprints",
   "version": "0.1.1",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
     "cheerio": "^1.0.0",
-    "next": "^14.2.13",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "next": "15.0.1",
+    "react": "19.0.0-rc-69d4b800-20241021",
+    "react-dom": "19.0.0-rc-69d4b800-20241021"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
     "eslint": "^8",
-    "eslint-config-next": "^14.0.4",
+    "eslint-config-next": "15.0.1",
     "postcss": "^8",
     "tailwindcss": "^3.3.0"
   }
