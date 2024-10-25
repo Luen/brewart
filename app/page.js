@@ -1,7 +1,7 @@
 import BrewprintsServer from '@/components/BrewprintsServer'
 import Recipes from '@/components/Recipes'
 import Ingredients from '@/components/Ingredients'
-import Link from '@/components/Link'
+import Link from 'next/link'
 
 export default function Home() {
     return (
