@@ -1,4 +1,3 @@
 {
-    "regions": ["syd1"],
-    "functionFailoverRegions": ["hnd1"]
+    "regions": ["syd1"]
 }
