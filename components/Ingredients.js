@@ -1,5 +1,6 @@
 import { getIngredients } from '@/lib/ingredients'
 import Link from 'next/link'
+import Image from 'next/image'
 
 export default async function Ingredients() {
     let response = await getIngredients()

@@ -2,6 +2,7 @@
 
 import { useState } from 'react'
 import Link from 'next/link'
+import Image from 'next/image'
 
 export default function BrewprintsClient({ initialBrewprints = [] }) {
     const [brewprints, setBrewprints] = useState(initialBrewprints)
@@ -153,10 +154,13 @@ export default function BrewprintsClient({ initialBrewprints = [] }) {
                                 <p className="mt-2 text-base dark:text-white/70">
                                     {item.shortDescription}
                                 </p>
-                                <img
+                                <Image
                                     src={item.imageBanner}
                                     alt={item.name}
+                                    width={600}
+                                    height={400}
                                     className="w-full h-auto mt-2"
+                                    unoptimized
                                 />
                                 <p className="mt-2 text-base dark:text-white/70">
                                     {item.longDescription
