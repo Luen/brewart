@@ -1,8 +1,7 @@
 import { NextResponse } from 'next/server'
 import { getBrewprints } from '@/lib/brewprints'
 
-export const dynamic = 'force-static'
-export const dynamicParams = false
+export const dynamic = 'force-dynamic'
 export const revalidate = 604800
 
 export async function GET(req, res) {

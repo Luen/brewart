@@ -28,10 +28,13 @@ export default async function Ingredients() {
                                 <p className="mt-2 text-base dark:text-white/70">
                                     {item.shortDescription}
                                 </p>
-                                <img
+                                <Image
                                     src={item.image}
                                     alt={item.name}
+                                    width={600}
+                                    height={400}
                                     className="w-full h-auto mt-2"
+                                    unoptimized
                                 />
                             </Link>
                             <p className="mt-2 text-base dark:text-white/70">
