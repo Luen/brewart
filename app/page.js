@@ -3,6 +3,53 @@ import Recipes from '@/components/Recipes'
 import Ingredients from '@/components/Ingredients'
 import Link from 'next/link'
 
+export const metadata = {
+    title: 'BrewArt BeerDroid Brewprints, Ingredients & Commercial Beer Clones',
+    description: 'Fan site for the BrewArt BeerDroid automated brewing system. Browse Brewprints, Commercial Clone Recipes, and Ingredients for home brewing.',
+    keywords: [
+        'BrewArt',
+        'BeerDroid',
+        'Brewprints',
+        'home brewing',
+        'beer recipes',
+        'commercial beer clones',
+        'brewing ingredients',
+        'automated brewing',
+        'beer making',
+    ],
+    authors: [{ name: 'BrewArt Fan Community' }],
+    creator: 'BrewArt Fan Community',
+    publisher: 'BrewArt Fan Community',
+    robots: {
+        index: true,
+        follow: true,
+        googleBot: {
+            index: true,
+            follow: true,
+            'max-video-preview': -1,
+            'max-image-preview': 'large',
+            'max-snippet': -1,
+        },
+    },
+    openGraph: {
+        type: 'website',
+        locale: 'en_US',
+        url: 'https://github.com/Luen/brewart',
+        title: 'BrewArt BeerDroid Brewprints, Ingredients & Commercial Beer Clones',
+        description: 'Fan site for the BrewArt BeerDroid automated brewing system. Browse Brewprints, Commercial Clone Recipes, and Ingredients for home brewing.',
+        siteName: 'BrewArt Brewprints',
+    },
+    twitter: {
+        card: 'summary_large_image',
+        title: 'BrewArt BeerDroid Brewprints, Ingredients & Commercial Beer Clones',
+        description: 'Fan site for the BrewArt BeerDroid automated brewing system. Browse Brewprints, Commercial Clone Recipes, and Ingredients for home brewing.',
+    },
+    alternates: {
+        canonical: 'https://github.com/Luen/brewart',
+    },
+    category: 'Home Brewing',
+}
+
 export default function Home() {
     return (
         <main className="px-6 mx-auto max-w-2xl">
