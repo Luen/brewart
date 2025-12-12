@@ -26,19 +26,19 @@ export default function Home() {
             <div className="sticky top-0 bg-black py-2 z-50 text-center">
                 <a
                     href="#brewprints"
-                    className="mx-2 px-4 py-2 bg-gray-300 text-black rounded hover:bg-gray-400 hover:text-white transition duration-300"
+                    className="mx-2 px-4 py-2 bg-gray-300 text-black rounded-sm hover:bg-gray-400 hover:text-white transition duration-300"
                 >
                     Brewprints
                 </a>
                 <a
                     href="#recipes"
-                    className="mx-2 px-4 py-2 bg-gray-300 text-black rounded hover:bg-gray-400 hover:text-white transition duration-300"
+                    className="mx-2 px-4 py-2 bg-gray-300 text-black rounded-sm hover:bg-gray-400 hover:text-white transition duration-300"
                 >
                     Recipes
                 </a>
                 <a
                     href="#ingredients"
-                    className="mx-2 px-4 py-2 bg-gray-300 text-black rounded hover:bg-gray-400 hover:text-white transition duration-300"
+                    className="mx-2 px-4 py-2 bg-gray-300 text-black rounded-sm hover:bg-gray-400 hover:text-white transition duration-300"
                 >
                     Ingredients
                 </a>
