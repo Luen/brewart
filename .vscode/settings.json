@@ -2,5 +2,6 @@
     "cSpell.words": [
         "brewprint",
         "brewprints"
-    ]
+    ],
+    "snyk.advanced.autoSelectOrganization": true
 }

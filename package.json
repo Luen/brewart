@@ -10,14 +10,14 @@
   },
   "dependencies": {
     "cheerio": "^1.1.2",
-    "next": "16.1.1",
-    "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "next": "16.1.6",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.18",
     "eslint": "^9.20.1",
-    "eslint-config-next": "16.1.1",
+    "eslint-config-next": "16.1.6",
     "postcss": "^8.4.38",
     "tailwindcss": "^4.1.18"
   }
