@@ -1,83 +1,3820 @@
 [
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {}
+  {
+    "data": {
+      "url": "https://brewart.com/au/bier-garten-helles",
+      "name": "Bier Garten Helles",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/b/i/bier_garten_helles_ipa_600_icon_final.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/b/i/bier_garten_helles_ipa_1440_banner_final.jpg",
+      "shortDescription": "Prost to brewing mastery!",
+      "longDescription": "Crisp, golden, and steeped in tradition — this Munich Helles pays homage to Bavaria’s brewing heritage. Pale gold with a dense white head, it reveals subtle herbal and floral aromas, perfectly balanced by a delicate hop character and clean malt backbone. Light to medium in body, it’s smooth, refreshing, and effortlessly drinkable. Raise a glass to over a thousand years of brewing mastery. Prost!",
+      "primaryRating": "0",
+      "recommended": 0,
+      "price": 42,
+      "totalPriceOfIngredients": 37.2,
+      "alcoholByVolume": 5.5,
+      "colour": 12,
+      "bitterness": 24,
+      "brewingProgram": "Custom - Propagate: 12°C, Ferment: 12°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "7-10 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y7"
+        ],
+        "elements": [
+          "E1",
+          "E1"
+        ],
+        "enhancers": [
+          "X1",
+          "X1",
+          "X1"
+        ],
+        "hops": [
+          "H3",
+          "H3"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/nightfall-black-ipa",
+      "name": "Nightfall Black IPA",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/n/i/nightfall_ipa_600_icon.png",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/n/i/nightfall_ipa_1440_banner.png",
+      "shortDescription": "Dark and crisp like the cool night air.",
+      "longDescription": "As darkness falls, Nightfall IPA rises. This Black IPA strikes the perfect balance between roasted malt complexity and bright, citrusy hops. Layers of dark chocolate and caramel intertwine with zesty grapefruit and orange peel, creating a bold yet refreshing contrast. A smooth, medium body leads to a crisp, clean finish—like the cool night air—inviting you take another sip.",
+      "primaryRating": 5,
+      "recommended": 1,
+      "price": 44,
+      "totalPriceOfIngredients": 44.5,
+      "alcoholByVolume": 6.5,
+      "colour": 66,
+      "bitterness": 33,
+      "brewingProgram": "Custom - Propagate: 20°C, Ferment: 18°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "7-10 Days",
+      "tastesLike": "",
+      "brewNotes": "This BrewPrint includes Dry Hops for enhanced flavour and aroma. We strongly recommend the use of the Dry Hop Filter to avoid blocking of kegging and bottling equipment from hop debris. You may brew without Dry Hops using BrewArt ingredients and substituting the Dry Hops for 1x Hops 2 and 1x Hops 6. Note you will need to use the appropriate brewing program, as listed above.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y3"
+        ],
+        "elements": [
+          "E2",
+          "E5",
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X4",
+          "X5"
+        ],
+        "hops": [],
+        "dryHops": [
+          "D5",
+          "D6"
+        ],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Austria, China, USA, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/hazy-day-session",
+      "name": "Hazy Day Session",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/h/a/hazy_day_session_600_icon.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/h/a/hazy_day_session_1440_banner.jpg",
+      "shortDescription": "Crisp, tropical ale to enjoy all day",
+      "longDescription": "Refreshingly crisp and expertly brewed, this masterfully crafted mid-strength beer features a lightly hazy appearance and a thick, creamy head. Citra hops deliver vibrant aromatics of pineapple, passionfruit, and tropical fruits, perfectly balanced with a smooth, subtle finish.",
+      "primaryRating": 4.5,
+      "recommended": 2,
+      "price": 30,
+      "totalPriceOfIngredients": 31,
+      "alcoholByVolume": 3.5,
+      "colour": 7,
+      "bitterness": 12,
+      "brewingProgram": "Custom - Propagate: 22°C, Ferment: 20°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "5-7 Days",
+      "tastesLike": "",
+      "brewNotes": "Beware when brewing this bold beer, due to its vigorous fermentation it may overflow from the vent port for the first 48 hours.\n\nThis BrewPrint includes Dry Hops for enhanced flavour and aroma. We strongly recommend the use of the Dry Hop Filter to avoid blocking of kegging and bottling equipment from hop debris. You may brew without Dry Hops using BrewArt ingredients and substituting the Dry Hops for 2x Hops 6. Note you will need to use the appropriate brewing program, as listed above.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y10"
+        ],
+        "elements": [
+          "E5"
+        ],
+        "enhancers": [
+          "X2",
+          "X2"
+        ],
+        "hops": [],
+        "dryHops": [
+          "D6"
+        ],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, , USA, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/kings-dutch-amber",
+      "name": "Kings Dutch Amber",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/k/i/kings_dutch_amber_600_icon_fa.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/k/i/kings_dutch_amber_1440_banner_fa.jpg",
+      "shortDescription": "Traditional Dutch Amber Ale fit for royalty",
+      "longDescription": "Embark on a regal journey as you revel in the rich amber hue and symphony of malt sweetness, floral hops and fruity esters of this rich Dutch Amber Ale. Each sip unveils a balanced dance of caramel malt, gentle bitterness, and Belgian yeast spice, leading to a crisp finish with lingering warmth. Fit for royalty and beer enthusiasts alike.",
+      "primaryRating": 5,
+      "recommended": 1,
+      "price": 40,
+      "totalPriceOfIngredients": 39.7,
+      "alcoholByVolume": 5.5,
+      "colour": 24,
+      "bitterness": 21,
+      "brewingProgram": "Custom - Propagate: 22°C, Ferment: 20°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "7-10 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y6"
+        ],
+        "elements": [
+          "E2",
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X1",
+          "X3"
+        ],
+        "hops": [
+          "H4",
+          "H4"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Austria, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/ju-ju-juice-xpa",
+      "name": "Ju Ju Juice XPA",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/j/u/juju_juice_xpa_600_icon_fa.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/j/u/juju_juice_xpa_1440_banner_fa.jpg",
+      "shortDescription": "Good vibes guaranteed",
+      "longDescription": "You’ll be under the spell of the seductive golden hue and light pillowy head of this vibrant XPA. Both flavour-forward and approachable, this beer is bursting with aromas of passionfruit, citrus and hints of peach. JuJu Juice XPA brings all the good vibes your way, delivering a crisp bitterness on the palate balanced by a smooth malt backbone. Subtle wheat notes add body and mouthfeel for a truly bountiful brew.",
+      "primaryRating": 4.5,
+      "recommended": 2,
+      "price": 40,
+      "totalPriceOfIngredients": 37.5,
+      "alcoholByVolume": 4.5,
+      "colour": 8,
+      "bitterness": 24,
+      "brewingProgram": "Custom - Propagate: 21°C, Ferment: 19°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "7-10 Days",
+      "tastesLike": "",
+      "brewNotes": "This BrewPrint includes Dry Hops for enhanced flavour and aroma. We strongly recommend the use of the Dry Hop Filter to avoid blocking of kegging and bottling equipment from hop debris. You may brew without Dry Hops using BrewArt ingredients and substituting the Dry Hops for 2 x Hops 6. Note you will need to use the appropriate brewing program, as listed above.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y1"
+        ],
+        "elements": [
+          "E5",
+          "E5"
+        ],
+        "enhancers": [
+          "X2",
+          "X5"
+        ],
+        "hops": [],
+        "dryHops": [
+          "D7",
+          "D8"
+        ],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, China, USA, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/australian-lager",
+      "name": "Australian Lager",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/a/u/australian_lager_icon_600x530.png",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/a/u/australian_lager_banner_1440x530.png",
+      "shortDescription": "Perfect for sunny days and barbecues",
+      "longDescription": "Pouring clean and clear with a bright golden hue, this refreshing brew brims with aromas of stone fruit and citrus. A dash of late hopping adds subtle tropical notes, perfect for sunny days and barbecues. Slow fermentation using traditional lager yeast brings delicate floral notes to the palate as the warm Aussie sun sinks below the horizon.",
+      "primaryRating": 4.2,
+      "recommended": 4,
+      "price": 40,
+      "totalPriceOfIngredients": 30,
+      "alcoholByVolume": 4.5,
+      "colour": 8,
+      "bitterness": 12,
+      "brewingProgram": "Custom - Propagate: 20°C, Ferment: 12°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "7-10 Days",
+      "tastesLike": "",
+      "brewNotes": "This BrewPrint includes Dry Hops for enhanced flavour and aroma. We strongly recommend the use of the Dry Hop Filter to avoid blocking of kegging and bottling equipment from hop debris. You may brew without Dry Hops using BrewArt ingredients and substituting the Dry Hops for 1x Hops 6. Note you will need to use the appropriate brewing program, as listed above.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y7"
+        ],
+        "elements": [
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X1",
+          "X1"
+        ],
+        "hops": [],
+        "dryHops": [
+          "D7"
+        ],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/coopers-regency-park-red-ale",
+      "name": "Coopers Regency Park Red Ale",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/r/e/regency_park_red_ale_keg_fermented_600_icon.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/r/e/regency_park_red_ale_keg_fermented_1440_banner.jpg",
+      "shortDescription": "Enjoy this limited-edition brew year round",
+      "longDescription": "The Coopers Regency Park Red Ale was a limited release from Coopers Brewery to celebrate 160 years of making great beers. With flavours of sweet biscuit, and toffee from the caramel malts, and aromas of passionfruit, and stone fruit from the hops, this limited-edition beer can be enjoyed all year round!",
+      "primaryRating": 5,
+      "recommended": 1,
+      "price": 40,
+      "totalPriceOfIngredients": 39.7,
+      "alcoholByVolume": 5.5,
+      "colour": 35,
+      "bitterness": 39,
+      "brewingProgram": "Custom - Propagate: 21°C, Ferment: 18°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "5-7 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y1"
+        ],
+        "elements": [
+          "E2",
+          "E2",
+          "E2",
+          "E5"
+        ],
+        "enhancers": [
+          "X3"
+        ],
+        "hops": [
+          "H6",
+          "H6"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/mongrel-ipa",
+      "name": "Mongrel IPA",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/m/o/mongrel_ipa_icon_600.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/m/o/mongrel_ipa_banner_1440.jpg",
+      "shortDescription": "An all-out riot for the senses",
+      "longDescription": "Got a taste for the rebellious? A sensory riot that is anything but mundane, this West Coast IPA is bursting with aromas of citrus, tropical and stone fruits while your tastebuds will revel in flavours of grapefruit and passionfruit. A boisterous interpretation of a classic style with its firm, bitter finish, Mongrel IPA is just begging to break all the boundaries. PLEASE NOTE: This BrewPrint contains Dry Hops! The Dry Hop Filter is required to filter out hop debris.",
+      "primaryRating": 5,
+      "recommended": 2,
+      "price": 44,
+      "totalPriceOfIngredients": 44.5,
+      "alcoholByVolume": 6.5,
+      "colour": 19,
+      "bitterness": 39,
+      "brewingProgram": "Custom - Propagate: 21°C, Ferment: 19°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "7-10 Days",
+      "tastesLike": "",
+      "brewNotes": "This BrewPrint includes Dry Hops for enhanced flavour and aroma. We strongly recommend the use of the Dry Hop Filter to avoid blocking of kegging and bottling equipment from hop debris. You may brew without Dry Hops using BrewArt ingredients and substituting the Dry Hops for 1x Hops 2 and 1x Hops 6. Note you will need to use the appropriate brewing program, as listed above.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y1"
+        ],
+        "elements": [
+          "E1",
+          "E2",
+          "E5",
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X1"
+        ],
+        "hops": [],
+        "dryHops": [
+          "D1",
+          "D5"
+        ],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, USA, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/discovery-pale-ale",
+      "name": "Discovery Pale Ale",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/d/i/discovery_pale_ale_icon_600x530.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/d/i/discovery_pale_ale_banner_1440x530.jpg",
+      "shortDescription": "Discover the art of brewing",
+      "longDescription": "This hop driven American Pale Ale is all about discovery. It’s light, crisp and oozing with aromas of pine and citrus from the carefully selected new world hop oils. The upfront citrus notes are quickly met with hints of toffee which work in harmony to round out the crisp bitterness. It's the perfect beer for exploring new things.",
+      "primaryRating": 4,
+      "recommended": 1,
+      "price": 40,
+      "totalPriceOfIngredients": 38.7,
+      "alcoholByVolume": 5.5,
+      "colour": 16,
+      "bitterness": 33,
+      "brewingProgram": "Ale",
+      "approximateBrewingTime": "7-10 Day",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y1"
+        ],
+        "elements": [
+          "E2",
+          "E5",
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X2"
+        ],
+        "hops": [
+          "H2",
+          "H2"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/sasquatch-cold-ipa",
+      "name": "Sasquatch Cold IPA",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/s/a/sasquatch_cold_ipa_600_icon.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/s/a/sasquatch_cold_ipa_1440_banner.jpg",
+      "shortDescription": "Bold and captivating, just like the creature itself",
+      "longDescription": "Transcend into this captivating straw-coloured cold IPA, boasting a hop ensemble, of floral, fruity notes, with hints of berries, tropical fruits, and stone fruit. Like the creature itself, Sasquatch IPA asserts its presence on your palate with medium to high bitterness, clean crisp malt characters and a warming bone-dry-finish.",
+      "primaryRating": 4,
+      "recommended": 1,
+      "price": 50,
+      "totalPriceOfIngredients": 51.5,
+      "alcoholByVolume": 7.5,
+      "colour": 12,
+      "bitterness": 36,
+      "brewingProgram": "Custom - Propagate: 20°C, Ferment: 15°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "7-10 Days",
+      "tastesLike": "",
+      "brewNotes": "This BrewPrint includes Dry Hops for enhanced flavour and aroma. We strongly recommend the use of the Dry Hop Filter to avoid blocking of kegging and bottling equipment from hop debris. You may brew without Dry Hops using BrewArt ingredients and substituting the Dry Hops for 2 x Hops 2. Note you will need to use the appropriate brewing program, as listed above.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y7"
+        ],
+        "elements": [
+          "E5",
+          "E5",
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X1",
+          "X5",
+          "X5"
+        ],
+        "hops": [],
+        "dryHops": [
+          "D1",
+          "D3",
+          "D5"
+        ],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, China, USA, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/solar-flare-amber-ale",
+      "name": "Solar Flare Amber Ale",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/s/o/solar_flare_icon_600.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/s/o/solar_flare_banner_1440.jpg",
+      "shortDescription": "An explosion of flavour",
+      "longDescription": "Experience an explosion of flavour with our American Amber Ale, Solar Flare – a brew that is out of this world! You’ll be energised by the vibrant aroma of citrus and floral notes, enticing you to take another sip. Bursts of sweet biscuity malt flavours balance out the medium bitterness as they wash over your palate. Unleash the energy of Solar Flare and enjoy this flavour filled ale on a warm summer day or crisp autumn night.",
+      "primaryRating": 3,
+      "recommended": 1,
+      "price": 40,
+      "totalPriceOfIngredients": 39.2,
+      "alcoholByVolume": 5.5,
+      "colour": 29,
+      "bitterness": 24,
+      "brewingProgram": "Custom - Propagate: 21°C, Ferment: 19°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "7-10 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y1"
+        ],
+        "elements": [
+          "E1",
+          "E2",
+          "E2"
+        ],
+        "enhancers": [
+          "X1",
+          "X3"
+        ],
+        "hops": [
+          "H1",
+          "H1"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/belter-xpa",
+      "name": "Belter XPA",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/b/e/belter_xpa_icon_600x530.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/b/e/belter_xpa_banner_1440x530.jpg",
+      "shortDescription": "A full-flavoured blast from start to finish",
+      "longDescription": "Belter XPA packs an extra punch for a pale ale – light-bodied and fully-hopped, your tastebuds will tingle with anticipation as aromas of tropical stone fruit and zesty citrus escape the glass. Pouring pale gold with a thick white head, this easy-drinking ale showcases citrus flavours of grapefruit and sweet orange with hints of stone fruit, and a crisp bitter finish.. PLEASE NOTE: This BrewPrint contains Dry Hops! The Dry Hop Filter is required to filter out hop debris.",
+      "primaryRating": 5,
+      "recommended": 5,
+      "price": 40,
+      "totalPriceOfIngredients": 40.5,
+      "alcoholByVolume": 5.5,
+      "colour": 10,
+      "bitterness": 30,
+      "brewingProgram": "Custom - Propagate: 22°C, Ferment: 19°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "7-10 Days",
+      "tastesLike": "",
+      "brewNotes": "This BrewPrint includes Dry Hops for enhanced flavour and aroma.\nWe strongly recommend the use of the Dry Hop Filter to avoid blocking of kegging and bottling equipment from hop debris.\n\nYou may brew without Dry Hops using BrewArt ingredients and substituting the Dry Hops for 2x Hops 6.\nNote you will need to use the appropriate brewing program, as listed above.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y2"
+        ],
+        "elements": [
+          "E1",
+          "E5",
+          "E5"
+        ],
+        "enhancers": [
+          "X2",
+          "X5"
+        ],
+        "hops": [],
+        "dryHops": [
+          "D5",
+          "D6"
+        ],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Austria, China, USA, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/low-carb-dry-lager",
+      "name": "Low Carb Dry Lager",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/l/o/low_carb_dry_lager_icon_600_1.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/l/o/low_carb_dry_lager_banner_1440_1.jpg",
+      "shortDescription": "A dry lager to wet your whistle",
+      "longDescription": "The ultimate beer for warm days, this lager is brewed for ultimate drinkability. Its low bitterness and crisp dry finish will wet your whistle when you need it most, while the light touch of noble hops provides fresh herbal aromas that add to the summer vibe, any time of the year.",
+      "primaryRating": 4.875,
+      "recommended": 6,
+      "price": 35,
+      "totalPriceOfIngredients": 30.1,
+      "alcoholByVolume": 4.5,
+      "colour": 6,
+      "bitterness": 12,
+      "brewingProgram": "Lager",
+      "approximateBrewingTime": "9-12 Days",
+      "tastesLike": "",
+      "brewNotes": "The delicate hop aroma desired for this dry lager is achieved using a single dose of H3 for your full 10L brew. Unlike other BrewPrints, you will need to infuse a single H3 sachet directly into the BeerDroid, following notification that fermentation is complete (as you would if bottling).",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y8"
+        ],
+        "elements": [
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X1",
+          "X5"
+        ],
+        "hops": [
+          "H3"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, China, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/coopers-pacific-pale-ale",
+      "name": "Coopers Pacific Pale Ale",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/c/o/coopers-pacific-pale-ale-web-icon_600x530_jan2023.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/c/o/coopers-pacific-pale-ale-web-banner_1440x530_jan2023.jpg",
+      "shortDescription": "A bright, fresh, summery Pacific Pale Ale",
+      "longDescription": "A bright, fresh, summery Pacific Pale Ale from Coopers. It’s subtly fruity with a citrus aromas, mild bitterness, the signature estery flavours of Coopers ales’, pours light amber and has an easy-drinking ABV so you can enjoy more of it, for longer. Coopers Pacific Pale Ale was formerly named Coopers Session Ale. PLEASE NOTE: This BrewPrint contains Dry Hops! The Dry Hop Filter is required to filter out hop debris.",
+      "primaryRating": 5,
+      "recommended": 9,
+      "price": 35,
+      "totalPriceOfIngredients": 30.5,
+      "alcoholByVolume": 4.5,
+      "colour": 9,
+      "bitterness": 24,
+      "brewingProgram": "[Custom] Propagate: 21°C, Ferment: 18°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "7-10 Days",
+      "tastesLike": "",
+      "brewNotes": "This BrewPrint has been improved with the inclusion of Dry Hops for enhanced flavour and aroma.\nWe strongly recommend the use of the Dry Hop Filter to avoid blocking of kegging and bottling equipment from hop debris.\n\nYou may brew without Dry Hops using BrewArt ingredients and substituting the Dry Hops for 2x Hops 6.\nNote you will need to use the appropriate brewing program, as listed above.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y2"
+        ],
+        "elements": [
+          "E5",
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X1"
+        ],
+        "hops": [],
+        "dryHops": [
+          "D7"
+        ],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Austria, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/queensland-gold",
+      "name": "Queensland Gold",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/q/u/queenslandgold_icon_600_1.png",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/q/u/queenslandgold_banner_1440_1.png",
+      "shortDescription": "A mid-strength summer favourite",
+      "longDescription": "This light bodied lager, with a clear golden hue, is the perfect accompaniment to a hot summers day. A refreshing brew with grainy malt characters that give rise to a slight sweetness, complimented by mild bitterness and a white fluffy head.",
+      "primaryRating": 4.5,
+      "recommended": 4,
+      "price": 30,
+      "totalPriceOfIngredients": 27.1,
+      "alcoholByVolume": 3.5,
+      "colour": 5.6,
+      "bitterness": 12,
+      "brewingProgram": "Lager",
+      "approximateBrewingTime": "9-20 Days",
+      "tastesLike": "XXXX Gold",
+      "brewNotes": "The delicate hop aroma desired for this mid-strength summer favourite is achieved using a single dose of H3 for your full 10L brew. Unlike other BrewPrints, you will need to infuse a single H3 sachet directly into the BeerDroid, following notification that fermentation is complete (as you would if bottling).",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y9"
+        ],
+        "elements": [
+          "E1",
+          "E1"
+        ],
+        "enhancers": [
+          "X5"
+        ],
+        "hops": [
+          "H3"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, China, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/pineapple-crush-ipa",
+      "name": "Pineapple Crush IPA",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/p/i/pineapple_crush_ipa_icon_600_1.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/p/i/pineapple_crush_ipa_banner_1440_1.jpg",
+      "shortDescription": "Go troppo for this IPA",
+      "longDescription": "Revel in, or reminisce on, balmy days of summer with this juicy IPA. You’ll go troppo over the sunny fruit salad aromas that lead you to a burst of pineapple thanks to the addition of fresh pineapple juice. Citrus, biscuit and toffee flavours are rounded out with a refreshing bitterness that’s perfect for the season. PLEASE NOTE: This BrewPrint contains Dry Hops! The Dry Hop Filter is required to filter out hop debris.",
+      "primaryRating": 4.4,
+      "recommended": 13,
+      "price": 40,
+      "totalPriceOfIngredients": 48.5,
+      "alcoholByVolume": 6.5,
+      "colour": 18.2,
+      "bitterness": 33,
+      "brewingProgram": "Ale",
+      "approximateBrewingTime": "5-9 Days",
+      "tastesLike": "",
+      "brewNotes": "To create this tropical delight, you will need to fill your BeerDroid with water to the 9L mark and then add 1L of good quality, preservative free, pineapple juice (to make 10L) before following regular brewing procedure.  \n\nBeware when brewing this bold beer, due to it’s vigorous fermentation it may overflow from the vent port for the first 48 hours.\n\nThis BrewPrint has been improved with the inclusion of Dry Hops for enhanced flavour and aroma.\nWe strongly recommend the use of the Dry Hop Filter to avoid blocking of kegging and bottling equipment from hop debris.\n\nYou may brew without Dry Hops using BrewArt ingredients and substituting the Dry Hops for 2x Hops 6.\nNote you will need to use the appropriate brewing program, as listed above.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y10"
+        ],
+        "elements": [
+          "E2",
+          "E5",
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X1",
+          "X2"
+        ],
+        "hops": [],
+        "dryHops": [
+          "D6",
+          "D6"
+        ],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, , USA, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/lawn-mower-lager",
+      "name": "Lawn Mower Lager",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/l/a/lawnmower_lager_600_new.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/l/a/lawnmower_lager_1440_new.jpg",
+      "shortDescription": "A cut above the rest",
+      "longDescription": "Unlike its namesake, Lawn Mower Lager is no chore. One sip and the bright aromas of passionfruit and citrus will invigorate the senses like a crisp Sunday morning. But don’t let the pale hue and mid alcohol content fool you, this light to medium bodied hop driven lager does more than enough work around the palate. PLEASE NOTE: This BrewPrint contains Dry Hops! The Dry Hop Filter is required to filter out hop debris.",
+      "primaryRating": 4.8333,
+      "recommended": 6,
+      "price": 35,
+      "totalPriceOfIngredients": 30.5,
+      "alcoholByVolume": 4,
+      "colour": 9,
+      "bitterness": 24,
+      "brewingProgram": "Lager",
+      "approximateBrewingTime": "10-18 Days",
+      "tastesLike": "",
+      "brewNotes": "This BrewPrint has been improved with the inclusion of Dry Hops for enhanced flavour and aroma.\nWe strongly recommend the use of the Dry Hop Filter to avoid blocking of kegging and bottling equipment from hop debris.\n\nYou may brew without Dry Hops using BrewArt ingredients and substituting the Dry Hops for 2x Hops 6.\nNote you will need to use the appropriate brewing program, as listed above.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y7"
+        ],
+        "elements": [
+          "E5",
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X2"
+        ],
+        "hops": [],
+        "dryHops": [
+          "D7"
+        ],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/birra-italiano",
+      "name": "Birra Italiano",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/b/i/birraitaliano_icon_600_3.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/b/i/birraitaliano_banner_1440_3.jpg",
+      "shortDescription": "Ciao, bella; Italian with style",
+      "longDescription": "In the style of Birra Moretti, one of Italy's most popular beers, Birra Italiano is a light golden lager with a fine white froth, perfectly balanced, delicate malty flavour and spicy marzipan and cereal aromas. Easy to drink with a clean, spicy hop finish.",
+      "primaryRating": 4.875,
+      "recommended": 7,
+      "price": 38,
+      "totalPriceOfIngredients": 35.2,
+      "alcoholByVolume": 4.5,
+      "colour": 9,
+      "bitterness": 18,
+      "brewingProgram": "Lager",
+      "approximateBrewingTime": "9-20 Days",
+      "tastesLike": "Birra Moretti",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y9"
+        ],
+        "elements": [
+          "E1",
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X1"
+        ],
+        "hops": [
+          "H5",
+          "H5"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/abbey-dubbel",
+      "name": "Abbey Dubbel",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/a/b/abbeydubbel_icon_600_5.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/a/b/abbeydubbel_banner_1440_5.jpg",
+      "shortDescription": "Copper-toned temptress",
+      "longDescription": "Follow in the footsteps of Trappist monks who crafted an almost wine-like brew with a coppery red hue and sweet aromas with a hint of raisins, clove and apricot. Sip through the dense, creamy off-white head to enjoy its complex malty flavours.",
+      "primaryRating": 4.2,
+      "recommended": 3,
+      "price": 42,
+      "totalPriceOfIngredients": 35.5,
+      "alcoholByVolume": 6.5,
+      "colour": 44,
+      "bitterness": 30,
+      "brewingProgram": "Ale",
+      "approximateBrewingTime": "6-14 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y6"
+        ],
+        "elements": [
+          "E1",
+          "E1",
+          "E1",
+          "E3"
+        ],
+        "enhancers": [
+          "X2",
+          "X3"
+        ],
+        "hops": [],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Austria, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/american-pale-ale",
+      "name": "American Pale Ale",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/a/m/americanpaleale_icon_600_1_3.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/a/m/americanpaleale_banner_1440_1_3.jpg",
+      "shortDescription": "Craft brewers take note",
+      "longDescription": "In a pale ale style made popular by craft brew fans, American Pale Ale has a freshness and character reflecting premium hops with a scent of pine and passionfruit. Taste sweet toffee, citrus and grapefruit aroma before a cleansing bitter finish. PLEASE NOTE: This BrewPrint contains Dry Hops! The Dry Hop Filter is required to filter out hop debris.",
+      "primaryRating": 4.3684,
+      "recommended": 16,
+      "price": 40,
+      "totalPriceOfIngredients": 39.5,
+      "alcoholByVolume": 5.5,
+      "colour": 16,
+      "bitterness": 33,
+      "brewingProgram": "Ale",
+      "approximateBrewingTime": "6-9 Days",
+      "tastesLike": "",
+      "brewNotes": "This BrewPrint has been improved with the inclusion of Dry Hops for enhanced flavour and aroma.\nWe strongly recommend the use of the Dry Hop Filter to avoid blocking of kegging and bottling equipment from hop debris.\n\nYou may brew without Dry Hops using BrewArt ingredients and substituting the Dry Hops for 2x Hops 1.\nNote you will need to use the appropriate brewing program, as listed above.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y1"
+        ],
+        "elements": [
+          "E2",
+          "E5",
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X1"
+        ],
+        "hops": [],
+        "dryHops": [
+          "D1",
+          "D2"
+        ],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, USA, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/australian-premium-lager",
+      "name": "Australian Premium Lager",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/a/u/australianpremiumlager_icon_600_2.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/a/u/australianpremiumlager_banner_1440_2.jpg",
+      "shortDescription": "Popular Pilsner style lager",
+      "longDescription": "Fresh, bitter and clean on the palate, a much-loved Aussie lager in the Pilsner style, Australian Premium Lager has a generous white foam, straw colour and herb/floral scents with rounded malt flavours. Popular for barbecues and casual gatherings.",
+      "primaryRating": 4.75,
+      "recommended": 4,
+      "price": 42,
+      "totalPriceOfIngredients": 38.7,
+      "alcoholByVolume": 5.5,
+      "colour": 11,
+      "bitterness": 18,
+      "brewingProgram": "Lager",
+      "approximateBrewingTime": "9-12 Days",
+      "tastesLike": "Hahn SuperDry",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y9"
+        ],
+        "elements": [
+          "E1",
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X1",
+          "X1"
+        ],
+        "hops": [
+          "H5",
+          "H5"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/aztec-cerveza",
+      "name": "Aztec Cerveza",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/a/z/azteccerveza_icon_600_1_2.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/a/z/azteccerveza_banner_1440_1_2.jpg",
+      "shortDescription": "Popular sparkler down Mexico way",
+      "longDescription": "The perfect refreshment for a hot day or a party starter, Aztec Cerveza has distinctive straw hues and a smooth, light style with a fine white head. A well-rounded character with lightly sweet malt and a soft finish. Garnish with a citrus wedge and enjoy.",
+      "primaryRating": 4.6316,
+      "recommended": 18,
+      "price": 30,
+      "totalPriceOfIngredients": 25.5,
+      "alcoholByVolume": 4.5,
+      "colour": 8,
+      "bitterness": 12,
+      "brewingProgram": "Lager",
+      "approximateBrewingTime": "9-20 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y9"
+        ],
+        "elements": [
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X1",
+          "X1"
+        ],
+        "hops": [],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/bavarian-lager",
+      "name": "Bavarian Lager",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/b/a/bavarianlager_icon_600_2.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/b/a/bavarianlager_banner_1440_2.jpg",
+      "shortDescription": "Best of Bavaria",
+      "longDescription": "An aromatic golden lager with a full body, malt aroma and sweet taste, Bavarian Lager hits the senses with floral, herbal hop and biscuity malt notes before filling the mouth with pale malt flavours. Firm, cleansing bitter finish in the renowned Bavarian style.",
+      "primaryRating": 3.3333,
+      "recommended": 2,
+      "price": 40,
+      "totalPriceOfIngredients": 37.7,
+      "alcoholByVolume": 5.5,
+      "colour": 12,
+      "bitterness": 30,
+      "brewingProgram": "Lager",
+      "approximateBrewingTime": "9-20 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y7"
+        ],
+        "elements": [
+          "E1",
+          "E5",
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X1"
+        ],
+        "hops": [
+          "H3",
+          "H3"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/belgian-lager",
+      "name": "Belgian Lager",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/b/e/belgianlager_icon_600_4.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/b/e/belgianlager_banner_1440_4.jpg",
+      "shortDescription": "Belgian style golden lager",
+      "longDescription": "One of the world’s most popular beer styles, an appealing golden lager with a soft white foam, subtle aroma that blends spice, herb and floral tones, and a taste of smooth cereal malts with a rounded hoppy finish. Clean and crisp.",
+      "primaryRating": 5,
+      "recommended": 17,
+      "price": 40,
+      "totalPriceOfIngredients": 37.2,
+      "alcoholByVolume": 5.5,
+      "colour": 11,
+      "bitterness": 18,
+      "brewingProgram": "Lager",
+      "approximateBrewingTime": "8-11 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y7"
+        ],
+        "elements": [
+          "E1",
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X1",
+          "X2"
+        ],
+        "hops": [
+          "H4",
+          "H4"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/belgian-strong-ale",
+      "name": "Belgian Strong Ale",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/b/e/belgianstrongale_icon_600_2.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/b/e/belgianstrongale_banner_1440_2.jpg",
+      "shortDescription": "Strong golden ale packs punch",
+      "longDescription": "A strong golden ale inspired by the best of Belgian beers, Belgian Strong Ale pours with a rocky white foam, fruit, spice and a touch of pepper on the nose. Effervescent and tingly on the tongue with smooth pale malt flavours and warming alcohol finish.",
+      "primaryRating": 4.75,
+      "recommended": 4,
+      "price": 44,
+      "totalPriceOfIngredients": 40.5,
+      "alcoholByVolume": 8.5,
+      "colour": 11,
+      "bitterness": 24,
+      "brewingProgram": "Ale",
+      "approximateBrewingTime": "9-12 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y6"
+        ],
+        "elements": [
+          "E5",
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X1",
+          "X1",
+          "X5",
+          "X5",
+          "X5"
+        ],
+        "hops": [],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Austria, China, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/big-bear-imperial-brown-ale",
+      "name": "Big Bear Imperial Brown Ale",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/b/i/bigbear_icon_600x530-01-web_1.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/b/i/bigbear_banner_1440x530-01-web_1.jpg",
+      "shortDescription": "A big brown ale that’s anything but grizzly",
+      "longDescription": "Is it an IPA, is it a Brown Ale? Or is it fair to say it’s the best of both? This is a style for the non-conformists, the pioneers, the frontier folk. It’s a big, dark beer up front, with toasty malt aromas, traces of coffee, and bursts of hop freshness. And with hints of toffee sweetness balancing the muscular hops, one sip of Big Bear will tell you, she may be bitter but she’s never grizzly. PLEASE NOTE: This BrewPrint contains Dry Hops! The Dry Hop Filter is required to filter out hop debris.",
+      "primaryRating": 4,
+      "recommended": 3,
+      "price": 44,
+      "totalPriceOfIngredients": 48.5,
+      "alcoholByVolume": 7.5,
+      "colour": 31,
+      "bitterness": 69,
+      "brewingProgram": "Ale",
+      "approximateBrewingTime": "7-14 Days",
+      "tastesLike": "",
+      "brewNotes": "Beware when brewing this bold beer, due to it’s vigorous fermentation it may overflow from the vent port for the first 48 hours.\n\nThis BrewPrint has been improved with the inclusion of Dry Hops for enhanced flavour and aroma.\nWe strongly recommend the use of the Dry Hop Filter to avoid blocking of kegging and bottling equipment from hop debris.\n\nYou may brew without Dry Hops using BrewArt ingredients and substituting the Dry Hops for 2x Hops 2.\nNote you will need to use the appropriate brewing program, as listed above.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y1"
+        ],
+        "elements": [
+          "E2",
+          "E5",
+          "E5",
+          "E5",
+          "E5",
+          "E5"
+        ],
+        "enhancers": [
+          "X3"
+        ],
+        "hops": [],
+        "dryHops": [
+          "D1",
+          "D3"
+        ],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, USA, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/black-eye-bock",
+      "name": "Black Eye Bock",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/b/l/black-eye-bock_icon_600_1.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/b/l/black-eye-bock_banner_1440_1.jpg",
+      "shortDescription": "A beer that punches above its weight",
+      "longDescription": "A distinctively rich, full-flavored beer to keep you on your toes. Deep amber in colour, the heavyweight appearance of this German-style lager tricks you into thinking it’s bigger than it is. But there’s little bitterness here. Instead, it dummies you with inviting aromas of coffee, chocolate and toasted malt to match the smooth caramel and mocha flavours.",
+      "primaryRating": 5,
+      "recommended": 2,
+      "price": 35,
+      "totalPriceOfIngredients": 30.6,
+      "alcoholByVolume": 4.5,
+      "colour": 30,
+      "bitterness": 12,
+      "brewingProgram": "[Custom] Propagate: 21°C, Ferment: 12°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "10-14 Days",
+      "tastesLike": "",
+      "brewNotes": "The delicate hop aroma desired for this bold Bock is achieved using a single dose of H3 for your full 10L brew. Unlike other BrewPrints, you will need to infuse a single H3 sachet directly into the BeerDroid, following notification that fermentation is complete (as you would if bottling).",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y8"
+        ],
+        "elements": [
+          "E3"
+        ],
+        "enhancers": [
+          "X1",
+          "X1",
+          "X1"
+        ],
+        "hops": [
+          "H3"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/bohemian-lager",
+      "name": "Bohemian Lager",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/b/o/bohemianlager_icon_600_3.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/b/o/bohemianlager_banner_1440_3.jpg",
+      "shortDescription": "Lager with character",
+      "longDescription": "Heavier and with more alcohol than the usual lager style, the pale gold Bohemian Lager has a long-lasting creamy white head, rich malt and spicy aromas, soft rounded malt flavours and a spicy bitter finish. When you’re looking for a lager with character.",
+      "primaryRating": 4.7143,
+      "recommended": 7,
+      "price": 40,
+      "totalPriceOfIngredients": 37.7,
+      "alcoholByVolume": 5.5,
+      "colour": 12,
+      "bitterness": 30,
+      "brewingProgram": "Lager",
+      "approximateBrewingTime": "9-12 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y7"
+        ],
+        "elements": [
+          "E1",
+          "E5",
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X1"
+        ],
+        "hops": [
+          "H4",
+          "H4"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/bombshell-blonde-low-carb",
+      "name": "Bombshell Blonde Low Carb",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/b/o/bombshellblonde-brewprint-600x530_1.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/b/o/bombshellblonde-brewprint-1440x530_1.jpg",
+      "shortDescription": "Easy on the hips and the lips",
+      "longDescription": "Bombshell Blonde is an enticingly refreshing low carb beer similar to some of the most popular low carb brews. Bright and light in colour with low bitterness, a crisp finish and great drinkability, Bombshell is perfect on a warm, sunny day and won’t spoil your beach bod. Bombshell Blonde has approximately 1.9g of residual carbohydrate per 100ml – this is about 45% less carbohydrate than regular brews.",
+      "primaryRating": 4.75,
+      "recommended": 4,
+      "price": 35,
+      "totalPriceOfIngredients": 30.6,
+      "alcoholByVolume": 4.5,
+      "colour": 5.6,
+      "bitterness": 12,
+      "brewingProgram": "Lager",
+      "approximateBrewingTime": "6-14 Days",
+      "tastesLike": "",
+      "brewNotes": "The delicate hop aroma desired for this mid-strength summer favourite is achieved using a single dose of H5 for your full 10L brew. Unlike other BrewPrints, you will need to infuse a single H5 sachet directly into the BeerDroid, following notification that fermentation is complete (as you would if bottling).",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y9"
+        ],
+        "elements": [
+          "E1",
+          "E1"
+        ],
+        "enhancers": [
+          "X5",
+          "X5"
+        ],
+        "hops": [
+          "H5"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, China, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/california-steam",
+      "name": "California Steam",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/c/a/californiasteam_icon_600_2.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/c/a/californiasteam_banner_1440_2.jpg",
+      "shortDescription": "Full steam ahead",
+      "longDescription": "A light amber brew with a thick, creamy head and rich, distinctive scents of toasty malt and woody mint with a firm herbal bitterness. Based on a US style called “Steam”, coined for beer brewed on the West Coast in days before refrigeration.",
+      "primaryRating": 5,
+      "recommended": 1,
+      "price": 38,
+      "totalPriceOfIngredients": 34.7,
+      "alcoholByVolume": 4.5,
+      "colour": 35,
+      "bitterness": 33,
+      "brewingProgram": "Ale",
+      "approximateBrewingTime": "6-14 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y7"
+        ],
+        "elements": [
+          "E2",
+          "E3",
+          "E5"
+        ],
+        "enhancers": [
+          "X1"
+        ],
+        "hops": [
+          "H9",
+          "H9"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/coopers-best-extra-stout",
+      "name": "Coopers Best Extra Stout",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/c/o/coopersbestextrastout_icon_600_jan2023.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/c/o/coopersbestextrastout_banner_1440_jan2023.jpg",
+      "shortDescription": "Dark beauty",
+      "longDescription": "Dark brown with an espresso crema head, aromas of coffee, chocolate and grain, this Coopers Best Extra Stout inspiration combines dark malt tannins and hop bitterness for a dry finish. Consume young or cellar for excellent results.",
+      "primaryRating": 5,
+      "recommended": 1,
+      "price": 38,
+      "totalPriceOfIngredients": 36.5,
+      "alcoholByVolume": 6.5,
+      "colour": 221,
+      "bitterness": 42,
+      "brewingProgram": "Ale",
+      "approximateBrewingTime": "6-14 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y1"
+        ],
+        "elements": [
+          "E1",
+          "E1",
+          "E4",
+          "E4"
+        ],
+        "enhancers": [
+          "X4",
+          "X4"
+        ],
+        "hops": [],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/coopers-dark-ale",
+      "name": "Coopers Dark Ale",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/c/o/coopersdarkale_icon_600_jan2023.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/c/o/coopersdarkale_banner_1440_jan2023.jpg",
+      "shortDescription": "Tempting, rich and hard to resist.",
+      "longDescription": "Be tempted by Dark Ale’s rich mahogany colour, creamy head and hint of chocolate aroma. Dark Ale has a generous mouth feel dominated by roasted malt and enough hop bitterness to give balance and a dry finish.",
+      "primaryRating": 4.5,
+      "recommended": 2,
+      "price": 30,
+      "totalPriceOfIngredients": 26,
+      "alcoholByVolume": 4.5,
+      "colour": 64,
+      "bitterness": 21,
+      "brewingProgram": "Ale",
+      "approximateBrewingTime": "6-14 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y2"
+        ],
+        "elements": [
+          "E1",
+          "E1",
+          "E2"
+        ],
+        "enhancers": [
+          "X4"
+        ],
+        "hops": [],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Austria, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/coopers-extra-strong-vintage-ale",
+      "name": "Coopers Extra Strong Vintage Ale",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/c/o/coopersextrastrongvintageale_icon_600_2.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/c/o/coopersextrastrongvintageale_banner_1440_2.jpg",
+      "shortDescription": "Not for the faint-hearted",
+      "longDescription": "Coopers Extra Strong Vintage Ale inspired this high alcohol, bitter, flavoursome beer, which may be consumed young, firm and bitter, or developed with age to soften its bitterness and develop its toffee and sherry characters.",
+      "primaryRating": 5,
+      "recommended": 4,
+      "price": 52,
+      "totalPriceOfIngredients": 46.7,
+      "alcoholByVolume": 8.5,
+      "colour": 41,
+      "bitterness": 45,
+      "brewingProgram": "Ale",
+      "approximateBrewingTime": "7-10 Days",
+      "tastesLike": "",
+      "brewNotes": "The higher alcohol content of this brew requires a modification to the regular BrewPrint procedure. Only fill your BeerDroid with 9L of water, which with the addition of the ingredients will still make 10L of beer.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y1"
+        ],
+        "elements": [
+          "E2",
+          "E2",
+          "E2",
+          "E5",
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X5"
+        ],
+        "hops": [
+          "H2",
+          "H2"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, China, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/coopers-mild-ale",
+      "name": "Coopers Mild Ale",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/c/o/coopersmildale_icon_600_jan2023.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/c/o/coopersmildale_banner_1440_jan2023.jpg",
+      "shortDescription": "Smooth malt with a cleansing finish",
+      "longDescription": "Mild yet flavoursome, with a smooth malt character balanced by late hopping, this cloudy golden Mild Ale has a creamy foam and a spicy, subtle floral biscuit aroma. Soft on the palate with a cleansing rounded bitter finish.",
+      "primaryRating": 4,
+      "recommended": 2,
+      "price": 30,
+      "totalPriceOfIngredients": 26.1,
+      "alcoholByVolume": 3.5,
+      "colour": 8,
+      "bitterness": 24,
+      "brewingProgram": "Ale",
+      "approximateBrewingTime": "6-14 Days",
+      "tastesLike": "",
+      "brewNotes": "The delicate hop aroma desired for this mid-strength classic is achieved using a single dose of H7 for your full 10L brew. Unlike other BrewPrints, you will need to infuse a single H7 sachet directly into the BeerDroid, following notification that fermentation is complete (as you would if bottling).",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y2"
+        ],
+        "elements": [
+          "E1",
+          "E1",
+          "E5"
+        ],
+        "enhancers": [],
+        "hops": [
+          "H7"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Austria, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/coopers-pale-ale",
+      "name": "Coopers Pale Ale",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/c/o/cooperspaleale_icon_600_jan2023.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/c/o/cooperspaleale_banner_1440_jan2023.jpg",
+      "shortDescription": "All-occasions brew with compelling flavor",
+      "longDescription": "Inspired by the iconic Coopers Original Pale Ale, an all-occasions brew and all-round favorite. The finest 2-row barley, hops and selected yeast combine to produce a beer with fruity and floral characters, balanced with a crisp bitterness.",
+      "primaryRating": 4.75,
+      "recommended": 3,
+      "price": 30,
+      "totalPriceOfIngredients": 25,
+      "alcoholByVolume": 4.5,
+      "colour": 10,
+      "bitterness": 24,
+      "brewingProgram": "Ale",
+      "approximateBrewingTime": "5-7 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y2"
+        ],
+        "elements": [
+          "E1",
+          "E1",
+          "E5"
+        ],
+        "enhancers": [
+          "X1"
+        ],
+        "hops": [],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Austria, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/coopers-sparkling-ale",
+      "name": "Coopers Sparkling Ale",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/c/o/cooperssparklingale_icon_600_jan2023.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/c/o/cooperssparklingale_banner_1440_jan2023.jpg",
+      "shortDescription": "Inspired by the world-famous sparkler",
+      "longDescription": "For lovers of the world-famous Coopers Sparkling Ale, this inspired brew produces an ale with a distinctive cloudy sediment, displaying fruity esters on the nose and a full malty palate with a generously hopped clean finish.",
+      "primaryRating": 4.5,
+      "recommended": 3,
+      "price": 30,
+      "totalPriceOfIngredients": 28.5,
+      "alcoholByVolume": 5.5,
+      "colour": 12,
+      "bitterness": 30,
+      "brewingProgram": "Ale",
+      "approximateBrewingTime": "6-14 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y2"
+        ],
+        "elements": [
+          "E1",
+          "E5",
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X1"
+        ],
+        "hops": [],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Austria, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/coopers-special-old-stout",
+      "name": "Coopers Special Old Stout",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/c/o/coopersspecialoldstout_icon_600_3.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/c/o/coopersspecialoldstout_banner_1440_3.jpg",
+      "shortDescription": "Dark as dark can be",
+      "longDescription": "Retired from commercial production, this very dark, rich brew can be recreated by you from the \"BrewArt Inspired\" range. Expect a creamy tan foam, scents of chocolate and dried fruits, mellow roasted coffee taste and a burnt caramel middle.",
+      "primaryRating": 5,
+      "recommended": 7,
+      "price": 42,
+      "totalPriceOfIngredients": 40,
+      "alcoholByVolume": 7.5,
+      "colour": 223,
+      "bitterness": 42,
+      "brewingProgram": "Ale",
+      "approximateBrewingTime": "7-10 Days",
+      "tastesLike": "",
+      "brewNotes": "The higher alcohol content of this brew requires a modification to the regular BrewPrint procedure. Only fill your BeerDroid with 9L of water, which with the addition of the ingredients will still make 10L of beer.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y1"
+        ],
+        "elements": [
+          "E1",
+          "E1",
+          "E4",
+          "E4"
+        ],
+        "enhancers": [
+          "X4",
+          "X4",
+          "X5"
+        ],
+        "hops": [],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, China, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/coopers-xpa",
+      "name": "Coopers XPA",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/c/o/coopers_xpa_icon_600_jan2023.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/c/o/coopers_xpa_banner_1440_jan2023.jpg",
+      "shortDescription": "A hop forward Coopers Ale",
+      "longDescription": "Coopers has hit a purple patch, Extra Pale Ale (XPA) is a recent US beer style that sits somewhere between an American Pale Ale and an Indian Pale Ale and delivers a desired hop forward experience. With its famous Pale Malt character, the Coopers XPA BrewPrint exhibits bright citrus undertones and aromas of Grapefruit. This latest addition to the Coopers family is only available on tap – so brew our BrewPrint recipe to enjoy and share it at home. PLEASE NOTE: This BrewPrint contains Dry Hops! The Dry Hop Filter is required to filter out hop debris.",
+      "primaryRating": 4.8571,
+      "recommended": 7,
+      "price": 40,
+      "totalPriceOfIngredients": 40.5,
+      "alcoholByVolume": 5.5,
+      "colour": 22,
+      "bitterness": 36,
+      "brewingProgram": "Ale",
+      "approximateBrewingTime": "6-10 Days",
+      "tastesLike": "",
+      "brewNotes": "This BrewPrint has been improved with the inclusion of Dry Hops for enhanced flavour and aroma.\nWe strongly recommend the use of the Dry Hop Filter to avoid blocking of kegging and bottling equipment from hop debris.\n\nYou may brew without Dry Hops using BrewArt ingredients and substituting the Dry Hops for 2x Hops 2.\nNote you will need to use the appropriate brewing program, as listed above.\n\nBeware when brewing this bold beer, due to its vigorous fermentation it may overflow from the vent port for the first 48 hours.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y4"
+        ],
+        "elements": [
+          "E1",
+          "E2",
+          "E2",
+          "E5"
+        ],
+        "enhancers": [
+          "X2"
+        ],
+        "hops": [],
+        "dryHops": [
+          "D4",
+          "D6"
+        ],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, USA, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/czech-pils",
+      "name": "Czech Pils",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/b/a/icon_czechpils_lg.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/b/a/banner_czechpils_lg.jpg",
+      "shortDescription": "Bohemian Rhapsody",
+      "longDescription": "Light to medium amber, clear and effervescent, an Eastern European style popular in North America, with a generous foam, yellow gold hues and a floral/spice aroma. Served cool or cold, enjoy the refreshing floral bitter hop finish.",
+      "primaryRating": 4.4286,
+      "recommended": 6,
+      "price": 38,
+      "totalPriceOfIngredients": 34.7,
+      "alcoholByVolume": 4.5,
+      "colour": 11,
+      "bitterness": 30,
+      "brewingProgram": "Lager",
+      "approximateBrewingTime": "8-11 Days",
+      "tastesLike": "Budvar",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y7"
+        ],
+        "elements": [
+          "E1",
+          "E1",
+          "E1",
+          "E5"
+        ],
+        "enhancers": [],
+        "hops": [
+          "H4",
+          "H4"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/deutsch-lager",
+      "name": "Deutsch Lager",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/d/e/deutschlager_icon_600_3.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/d/e/deutschlager_banner_1440_3.jpg",
+      "shortDescription": "In the great German tradition",
+      "longDescription": "Inspired by the Pilsner style immensely popular in Germany, Deutsch Lager has a generous white foam, straw, floral and herb scents, and a subtle malt sweetness balanced with clean bitterness. A beer for the ages.",
+      "primaryRating": 5,
+      "recommended": 4,
+      "price": 40,
+      "totalPriceOfIngredients": 37.2,
+      "alcoholByVolume": 5.5,
+      "colour": 11,
+      "bitterness": 24,
+      "brewingProgram": "Lager",
+      "approximateBrewingTime": "9-20 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y7"
+        ],
+        "elements": [
+          "E5",
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X1",
+          "X1"
+        ],
+        "hops": [
+          "H3",
+          "H3"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/dusk-cerveza",
+      "name": "Dusk Cerveza",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/d/u/dusk-cerveza_icon_600_1.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/d/u/dusk-cerveza_banner_1440_1.jpg",
+      "shortDescription": "A lager for when the sun goes down",
+      "longDescription": "Dark and deceptive, there’s more to Dusk Cerveza than you’d expect in a lager. As the sun sets over the pint glass, the tempting aromas of biscuit and sweet caramel toffees lure you in, and rich, smooth flavours of malt and caramel come out to play leaving a crisp zippiness to remind you of its lager heritage.",
+      "primaryRating": 5,
+      "recommended": 2,
+      "price": 35,
+      "totalPriceOfIngredients": 29.5,
+      "alcoholByVolume": 5.5,
+      "colour": 19,
+      "bitterness": 18,
+      "brewingProgram": "Lager",
+      "approximateBrewingTime": "10-14 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y9"
+        ],
+        "elements": [
+          "E2",
+          "E2"
+        ],
+        "enhancers": [
+          "X1",
+          "X1",
+          "X1"
+        ],
+        "hops": [],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/english-pub-draught",
+      "name": "English Pub Draught",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/e/n/englishpubdraught_icon_600_2.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/e/n/englishpubdraught_banner_1440_2.jpg",
+      "shortDescription": "Best of British",
+      "longDescription": "A strong English style pub ale with thick foam and bold flavour. Rich gold promise fulfilled with honey and fruit aromas and smooth malty biscuity balanced with medium bitterness. This golden-brown beverage is a must for lovers of traditional English ales.",
+      "primaryRating": 4.7143,
+      "recommended": 7,
+      "price": 30,
+      "totalPriceOfIngredients": 24.5,
+      "alcoholByVolume": 4.5,
+      "colour": 18,
+      "bitterness": 24,
+      "brewingProgram": "Propagate: 19°C, Ferment: 16°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "6-14 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y4"
+        ],
+        "elements": [
+          "E5",
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X3"
+        ],
+        "hops": [],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/four-leaf-stout",
+      "name": "Four Leaf Stout",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/f/o/fourleaf_icon_600_1.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/f/o/fourleaf_banner_1440_1.jpg",
+      "shortDescription": "Light and sweet Irish stout",
+      "longDescription": "A lighter and sweeter dry Irish stout with a flavour evocative of caramel and malt, Four Leaf Stout has a tight beige head, reminiscent of cappuccino, with dark brown and red hues. Characters of grain, coffee and chocolate with smooth roasted flavours and a dry coffee like finish.",
+      "primaryRating": 4.5,
+      "recommended": 2,
+      "price": 30,
+      "totalPriceOfIngredients": 27,
+      "alcoholByVolume": 4.5,
+      "colour": 101,
+      "bitterness": 30,
+      "brewingProgram": "Propagate: 18°C, Ferment: 17°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "3-5 Days",
+      "tastesLike": "Guinness",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y2"
+        ],
+        "elements": [
+          "E1",
+          "E3",
+          "E3"
+        ],
+        "enhancers": [
+          "X4"
+        ],
+        "hops": [],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Austria, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/german-weissbier",
+      "name": "German Weissbier",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/g/e/germanweissbier_icon_600_2.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/g/e/germanweissbier_banner_1440_2.jpg",
+      "shortDescription": "Hazy days of summer ale",
+      "longDescription": "Inspired by the German brewing heritage, German Weissbier has a hazy pale gold body topped by thick pale gold mousse-like white foam. With scents of banana, clove and a hint of bubblegum, a spritzy ale with soft wheaty flavours and a mellow finish.",
+      "primaryRating": 4.5714,
+      "recommended": 7,
+      "price": 30,
+      "totalPriceOfIngredients": 28.5,
+      "alcoholByVolume": 5.5,
+      "colour": 12,
+      "bitterness": 18,
+      "brewingProgram": "Ale",
+      "approximateBrewingTime": "5-7 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y5"
+        ],
+        "elements": [
+          "E1",
+          "E5"
+        ],
+        "enhancers": [
+          "X2",
+          "X2",
+          "X2"
+        ],
+        "hops": [],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Austria, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/highlands-ipa",
+      "name": "Highlands IPA",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/h/i/highlandsipa_icon_600_3.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/h/i/highlandsipa_banner_1440_3.jpg",
+      "shortDescription": "Hail, Caledonia",
+      "longDescription": "Delightful hints of fresh citrus, distinctive light malt and fresh floral flavours make up this Scottish-style light copper ale. A fluffy white head and golden hues beguile. A slight marmalade flavour and refreshing zesty citric hop finish followed by subtle earthy roast nutty notes.",
+      "primaryRating": 5,
+      "recommended": 4,
+      "price": 38,
+      "totalPriceOfIngredients": 34.2,
+      "alcoholByVolume": 4.5,
+      "colour": 16,
+      "bitterness": 33,
+      "brewingProgram": "Propagate: 19°C, Ferment: 16°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "6-14 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y3"
+        ],
+        "elements": [
+          "E1",
+          "E1",
+          "E2",
+          "E5"
+        ],
+        "enhancers": [],
+        "hops": [
+          "H7",
+          "H7"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Austria, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/golden-days-of-summer-ale",
+      "name": "Golden Days of Summer Ale",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/g/o/goldendaysofsummerale_600_1.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/g/o/goldendaysofsummerale_1440_1.jpg",
+      "shortDescription": "All the makings of a legendary summer",
+      "longDescription": "Golden days are here my friend, and this ale is as bright as the summer sky. Its brilliant golden amber hues are topped with white foam like the crest of a wave. Fresh passionfruit and citrus aromas invite you in, then crisp medium bitterness and malt tell you to put your feet up and settle in for some serious summer relaxation. PLEASE NOTE: This BrewPrint contains Dry Hops! The Dry Hop Filter is required to filter out hop debris.",
+      "primaryRating": 4.1429,
+      "recommended": 6,
+      "price": 46,
+      "totalPriceOfIngredients": 35.5,
+      "alcoholByVolume": 5,
+      "colour": 12,
+      "bitterness": 30,
+      "brewingProgram": "Propagate: 22°C, Ferment: 17°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "5-8 Days",
+      "tastesLike": "",
+      "brewNotes": "This BrewPrint has been improved with the inclusion of Dry Hops for enhanced flavour and aroma.\nWe strongly recommend the use of the Dry Hop Filter to avoid blocking of kegging and bottling equipment from hop debris.\n\nYou may brew without Dry Hops using BrewArt ingredients and substituting the Dry Hops for 2x Hops 6.\nNote you will need to use the appropriate brewing program, as listed above.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y1"
+        ],
+        "elements": [
+          "E1",
+          "E5",
+          "E5"
+        ],
+        "enhancers": [
+          "X2",
+          "X2"
+        ],
+        "hops": [],
+        "dryHops": [
+          "D5"
+        ],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, USA, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/hop-sessed-session-ipa",
+      "name": "HOP-SESSED Session IPA",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/h/o/hopsessed_icon_retouched_july2024.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/h/o/hopsessed_banner_retouched_july2024.jpg",
+      "shortDescription": "A hop obsession fit for a session",
+      "longDescription": "This session IPA pours bright and golden, with a thick white head. Dry hopping with Mosaic and Simcoe hops delivers resinous and fruity aromas rounded out with a good kick of bitterness. Enjoy a session with an ABV of only 4.5%, just be careful it’s easy to become hop-sessed! PLEASE NOTE: This BrewPrint contains Dry Hops! The Dry Hop Filter is required to filter out hop debris.",
+      "primaryRating": 4.5,
+      "recommended": 4,
+      "price": 40,
+      "totalPriceOfIngredients": 38,
+      "alcoholByVolume": 4.5,
+      "colour": 10,
+      "bitterness": 36,
+      "brewingProgram": "Custom - Propagate: 21°C, Ferment: 17°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "7-10 Days",
+      "tastesLike": "",
+      "brewNotes": "This BrewPrint includes Dry Hops for enhanced flavour and aroma.\nWe strongly recommend the use of the Dry Hop Filter to avoid blocking of kegging and bottling equipment from hop debris.\n\nYou may brew without Dry Hops using BrewArt ingredients and substituting the Dry Hops for 2x Hops 2.\nNote you will need to use the appropriate brewing program, as listed above.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y1"
+        ],
+        "elements": [
+          "E5",
+          "E5",
+          "E5"
+        ],
+        "enhancers": [
+          "X2"
+        ],
+        "hops": [],
+        "dryHops": [
+          "D4",
+          "D8"
+        ],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, USA, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/irish-red-ale",
+      "name": "Irish Red Ale",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/i/r/irishredale_icon_600_3.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/i/r/irishredale_banner_1440_3.jpg",
+      "shortDescription": "Off to Dublin in the green",
+      "longDescription": "In the great Irish brewing tradition, Irish Red Ale is a bitter ale with a tan foam and deep red copper tones. Creamy on the palate with hints of mocha and cinnamon, and scents of toffee, toast and fruit. This brew’s a conversation starter.",
+      "primaryRating": 4.4444,
+      "recommended": 7,
+      "price": 30,
+      "totalPriceOfIngredients": 25.5,
+      "alcoholByVolume": 4.5,
+      "colour": 35,
+      "bitterness": 18,
+      "brewingProgram": "Ale",
+      "approximateBrewingTime": "6-14 Days",
+      "tastesLike": "",
+      "brewNotes": "Beware when brewing this bold beer, due to it’s vigorous fermentation it may overflow from the vent port for the first 48 hours.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y2"
+        ],
+        "elements": [
+          "E2",
+          "E2"
+        ],
+        "enhancers": [
+          "X3",
+          "X3"
+        ],
+        "hops": [],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Austria, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/jolly-roger-pale-ale",
+      "name": "Jolly Roger Pale Ale",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/j/o/jolly_roger_brew_icon_600x530.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/j/o/jolly_roger_brew_banner_1440x530.jpg",
+      "shortDescription": "Ahhhh me hearties",
+      "longDescription": "It might not be all hands-on-deck when brewing but the crew will surely appear when it’s time to drink this hop driven Pale Ale. A touch darker than your average Pale Ale this beer pours a light amber colour with an off-white head. Aromas reminiscent of a pine forest and hints of citrus give that old school west coast pale ale vibe. Malt complexity compliments layers of hops and assertive bitterness, like a parrot on a pirate’s shoulder. PLEASE NOTE: This BrewPrint contains Dry Hops! The Dry Hop Filter is required to filter out hop debris.",
+      "primaryRating": 5,
+      "recommended": 2,
+      "price": 40,
+      "totalPriceOfIngredients": 40.5,
+      "alcoholByVolume": 5.5,
+      "colour": 12,
+      "bitterness": 36,
+      "brewingProgram": "Custom - Propagate: 21°C, Ferment: 16°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "7-10 Days",
+      "tastesLike": "Pirate Life",
+      "brewNotes": "This BrewPrint includes Dry Hops for enhanced flavour and aroma.\nWe strongly recommend the use of the Dry Hop Filter to avoid blocking of kegging and bottling equipment from hop debris.\n\nYou may brew without Dry Hops using BrewArt ingredients and substituting the Dry Hops for 2x Hops 1.\nNote you will need to use the appropriate brewing program, as listed above.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y1"
+        ],
+        "elements": [
+          "E5",
+          "E5",
+          "E5"
+        ],
+        "enhancers": [
+          "X2",
+          "X2"
+        ],
+        "hops": [],
+        "dryHops": [
+          "D1",
+          "D8"
+        ],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, USA, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/julebryg-spiced-lager",
+      "name": "Julebryg Spiced Lager",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/j/u/julebryg_spiced_lager_600.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/j/u/julebryg_spiced_lager_1440.jpg",
+      "shortDescription": "A Danish Christmas tradition",
+      "longDescription": "The story goes that the first Julebryg (Christmas Brew), was made by Carlsminde Brewery in 1958. Vikings were known to brew a high-powered beer-like drink to get them through the dark winter months. The popularity of this seasonal beer prompted other breweries to follow. Over the years, this dark pilsner has become a clear sign that Christmas has arrived in Denmark. The annual launch, known as 'J-day', takes place the first Friday in November and is a day of celebration across Denmark. Brewery truck drivers deliver to bars and cafés while singing the traditional Christmas Brew song and handing out free beer to the guests to mark the start of the festive season. Dark-golden colour with a fresh aroma of caramel, cereal, liquorice and blackcurrant, Julebryg is a bottom-fermented wiener beer, the perfect companion to add some European spice to your Christmas celebrations!",
+      "primaryRating": 4.75,
+      "recommended": 4,
+      "price": 38,
+      "totalPriceOfIngredients": 38.1,
+      "alcoholByVolume": 6.5,
+      "colour": 26,
+      "bitterness": 27,
+      "brewingProgram": "Lager",
+      "approximateBrewingTime": "9-14 Days",
+      "tastesLike": "",
+      "brewNotes": "This brew requires additional ingredients that you will need to source; half a Star Anise, half a Vanilla Bean, 1 Cinnamon stick. After fermentation, boil 1 cup of water, add spices and infuse for 10 minutes, tip into BeerDroid along with single Hop pouch addition and infuse for 24 hours prior to kegging. \n\nBeware when brewing this bold beer, due to it’s vigorous fermentation it may overflow from the vent port for the first 48 hours.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y8"
+        ],
+        "elements": [
+          "E2",
+          "E2",
+          "E2"
+        ],
+        "enhancers": [
+          "X1",
+          "X1",
+          "X1"
+        ],
+        "hops": [
+          "H4"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/kremlin-russian-imperial-stout",
+      "name": "Kremlin Russian Imperial Stout",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/k/r/kremlin_russian_imperial_stout_icon_600_1.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/k/r/kremlin_russian_imperial_stout_banner_1440_1.jpg",
+      "shortDescription": "Five-star stout",
+      "longDescription": "Nostrovia! This big black bear of a stout is as dark and thick as a winter’s night in St Petersburg. Originally brewed in the 18th century in London, it was exported to Imperial Russia where it provided welcome relief from even the iciest storms. Aromas of coffee and chocolate burst out of the glass, and from the first sip, its luxurious texture will fill your mouth, before rounding out with a bold and majestic bitterness. This brew will get you through the toughest of winters.",
+      "primaryRating": 5,
+      "recommended": 5,
+      "price": 52,
+      "totalPriceOfIngredients": 56.7,
+      "alcoholByVolume": 9.5,
+      "colour": 199,
+      "bitterness": 72,
+      "brewingProgram": "Ale",
+      "approximateBrewingTime": "9-14 Days",
+      "tastesLike": "",
+      "brewNotes": "The higher alcohol content of this brew requires a modification to the regular BrewPrint procedure. Only fill your BeerDroid with 9L of water, which with the addition of the ingredients will still make 10L of beer.\n\nBeware when brewing this bold beer, due to it’s vigorous fermentation it may overflow from the vent port for the first 48 hours.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y1"
+        ],
+        "elements": [
+          "E1",
+          "E3",
+          "E4",
+          "E4",
+          "E5",
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X2",
+          "X4"
+        ],
+        "hops": [
+          "H2",
+          "H2"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/lighthouse-pacific-pale",
+      "name": "Lighthouse Pacific Pale",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/l/i/lighthousepacificpale-brewprint-600x530_1.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/l/i/lighthousepacificpale-brewprint-1440x530_1.jpg",
+      "shortDescription": "A beacon for craft beer fans",
+      "longDescription": "Made in the quintessential Australian style, Lighthouse Pacific Pale is one for craft beer lovers that enjoy flavour balanced with great drinkability. The light colour and fruity aroma precede a mid-bitterness, hints of passionfruit character and a refreshing finish. Craft beer fans, looking for that extra flavour, are sure to find it illuminating. PLEASE NOTE: This BrewPrint contains Dry Hops! The Dry Hop Filter is required to filter out hop debris.",
+      "primaryRating": 4.75,
+      "recommended": 7,
+      "price": 35,
+      "totalPriceOfIngredients": 30.5,
+      "alcoholByVolume": 4.5,
+      "colour": 9.6,
+      "bitterness": 24,
+      "brewingProgram": "Ale",
+      "approximateBrewingTime": "4-7 Days",
+      "tastesLike": "Stone & Wood Pacific Ale",
+      "brewNotes": "This BrewPrint has been improved with the inclusion of Dry Hops for enhanced flavour and aroma.\nWe strongly recommend the use of the Dry Hop Filter to avoid blocking of kegging and bottling equipment from hop debris.\n\nYou may brew without Dry Hops using BrewArt ingredients and substituting the Dry Hops for 2x Hops 6.\nNote you will need to use the appropriate brewing program, as listed above.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y2"
+        ],
+        "elements": [
+          "E5",
+          "E5"
+        ],
+        "enhancers": [
+          "X2",
+          "X2"
+        ],
+        "hops": [],
+        "dryHops": [
+          "D7"
+        ],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Austria, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/lion-city-lager",
+      "name": "Lion City Lager",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/l/i/lioncitylager-brewprint-600x530_1.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/l/i/lioncitylager-brewprint-1440x530_1.jpg",
+      "shortDescription": "The crowd will roar",
+      "longDescription": "Lion City Lager is a classic, Asian lager in the style of some of the world’s most highly acclaimed and awarded beers. The golden amber colour, persistent lacey head, medium bodied mouthfeel and mild biscuit and floral aromas are hallmarks of this style. It’s great with spicy Asian food.",
+      "primaryRating": 4.5,
+      "recommended": 2,
+      "price": 42,
+      "totalPriceOfIngredients": 37.2,
+      "alcoholByVolume": 5.5,
+      "colour": 8.9,
+      "bitterness": 18,
+      "brewingProgram": "Lager",
+      "approximateBrewingTime": "6-14 Days",
+      "tastesLike": "Tiger",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y7"
+        ],
+        "elements": [
+          "E1",
+          "E5"
+        ],
+        "enhancers": [
+          "X2",
+          "X2",
+          "X5"
+        ],
+        "hops": [
+          "H3",
+          "H3"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, China, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/london-s-own-ale",
+      "name": "London's Own Ale",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/l/o/londonsownale_icon_600_2.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/l/o/londonsownale_banner_1440_2.jpg",
+      "shortDescription": "Spicy with a hint of chocolate",
+      "longDescription": "An amber brew in the microbrewery tradition, London's Own Ale has scents of toffee malt and stewed fruit followed up on the palate with rich malt flavours balanced by a smooth bitter finish. Dry with plenty of spice and a hint of chocolate.",
+      "primaryRating": 5,
+      "recommended": 2,
+      "price": 38,
+      "totalPriceOfIngredients": 34.2,
+      "alcoholByVolume": 4.5,
+      "colour": 29,
+      "bitterness": 36,
+      "brewingProgram": "Propagate: 19°C, Ferment: 16°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "6-9 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y3"
+        ],
+        "elements": [
+          "E2",
+          "E2",
+          "E2",
+          "E2"
+        ],
+        "enhancers": [],
+        "hops": [
+          "H7",
+          "H7"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Austria, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/lord-s-english-pale-ale",
+      "name": "Lord's English Pale Ale",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/l/o/lordsenglishpaleale_icon_600_3.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/l/o/lordsenglishpaleale_banner_1440_3.jpg",
+      "shortDescription": "Classic golden ale",
+      "longDescription": "A classic, rich gold pale ale with a tightly packed white foam and citrus, fruity and cereal aromas, this Timothy Taylor Landlord inspired brew in the British style has rich malt flavours with a hoppy citrus bitter finish.",
+      "primaryRating": 4.5,
+      "recommended": 2,
+      "price": 37,
+      "totalPriceOfIngredients": 34.2,
+      "alcoholByVolume": 4.5,
+      "colour": 20,
+      "bitterness": 30,
+      "brewingProgram": "Propagate: 19°C, Ferment: 16°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "6-14 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y3"
+        ],
+        "elements": [
+          "E1",
+          "E1",
+          "E2",
+          "E2"
+        ],
+        "enhancers": [],
+        "hops": [
+          "H7",
+          "H7"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Austria, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/midlands-pale-ale",
+      "name": "Midlands Pale Ale",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/m/i/midlandspaleale_icon_600_2.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/m/i/midlandspaleale_banner_1440_2.jpg",
+      "shortDescription": "Fine balance of malt and fruit",
+      "longDescription": "Sweet, full bodied and fruity, Midlands Pale Ale pours with a coarse white head on deep amber. A finely balanced beer with a distinctive rich malty taste and toffee, fruity aromas. Smooth and slightly drying finish.",
+      "primaryRating": 5,
+      "recommended": 1,
+      "price": 40,
+      "totalPriceOfIngredients": 37.7,
+      "alcoholByVolume": 5.5,
+      "colour": 34,
+      "bitterness": 27,
+      "brewingProgram": "Propagate: 19°C, Ferment: 16°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "6-14 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y3"
+        ],
+        "elements": [
+          "E2",
+          "E2",
+          "E2"
+        ],
+        "enhancers": [
+          "X1",
+          "X3"
+        ],
+        "hops": [
+          "H7",
+          "H7"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Austria, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/mountain-range-ipa",
+      "name": "Mountain Range IPA",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/m/o/mountainrangeipa_icon_600_3.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/m/o/mountainrangeipa_banner_1440_3.jpg",
+      "shortDescription": "Big and bold in the American way",
+      "longDescription": "A big American style beer with an assertive full flavour and pine and tropical fruit characters. Enjoy mouthfilling goodness of malt and citrus with a very firm bitter finish, pine and herbal character. PLEASE NOTE: This BrewPrint contains Dry Hops! The Dry Hop Filter is required to filter out hop debris.",
+      "primaryRating": 4.75,
+      "recommended": 2,
+      "price": 50,
+      "totalPriceOfIngredients": 54.5,
+      "alcoholByVolume": 7.5,
+      "colour": 28,
+      "bitterness": 66,
+      "brewingProgram": "Ale",
+      "approximateBrewingTime": "7-14 Days",
+      "tastesLike": "Sierra Nevada",
+      "brewNotes": "This BrewPrint has been improved with the inclusion of Dry Hops for enhanced flavour and aroma.\nWe strongly recommend the use of the Dry Hop Filter to avoid blocking of kegging and bottling equipment from hop debris.\n\nYou may brew without Dry Hops using BrewArt ingredients and substituting the Dry Hops for 2x Hops 2.\nNote you will need to use the appropriate brewing program, as listed above.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y1"
+        ],
+        "elements": [
+          "E1",
+          "E1",
+          "E2",
+          "E2",
+          "E5",
+          "E5",
+          "E5"
+        ],
+        "enhancers": [],
+        "hops": [],
+        "dryHops": [
+          "D1",
+          "D2",
+          "D4"
+        ],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, USA, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/monch-lager",
+      "name": "Mönch Lager",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/m/o/monchlager_icon_600_3.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/m/o/monchlager_banner_1440_3.jpg",
+      "shortDescription": "Ancient brew for modern man",
+      "longDescription": "A full-flavoured European lager with a distinctive malt taste in a style that dates back centuries. Refreshing and vibrant on the palate, enjoy its soft herb and flower aromas, subtle malt and moderate bitterness.",
+      "primaryRating": 5,
+      "recommended": 2,
+      "price": 42,
+      "totalPriceOfIngredients": 38.7,
+      "alcoholByVolume": 5.5,
+      "colour": 11,
+      "bitterness": 18,
+      "brewingProgram": "Lager",
+      "approximateBrewingTime": "9-20 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y8"
+        ],
+        "elements": [
+          "E1",
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X1",
+          "X1"
+        ],
+        "hops": [
+          "H4",
+          "H4"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/narci-citrus-ipa",
+      "name": "Narci-Citrus IPA",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/n/a/narci-citrus-ipa_icon_600_1.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/n/a/narci-citrus-ipa_banner_1440_1.jpg",
+      "shortDescription": "Get your creative juices flowing",
+      "longDescription": "Bold and beautiful with an attractive bitterness, this proud IPA pours light amber into the glass, and settles beneath a thick, creamy head. The lush and juicy aromas of passionfruit, citrus and stone fruit leap out, while a muscular malty backbone and sweet caramel flavours calm the hops-driven undertones. PLEASE NOTE: This BrewPrint contains Dry Hops! The Dry Hop Filter is required to filter out hop debris.",
+      "primaryRating": 4.6667,
+      "recommended": 3,
+      "price": 52,
+      "totalPriceOfIngredients": 56,
+      "alcoholByVolume": 7.5,
+      "colour": 26,
+      "bitterness": 60,
+      "brewingProgram": "Ale",
+      "approximateBrewingTime": "7-10 Days",
+      "tastesLike": "",
+      "brewNotes": "This BrewPrint has been improved with the inclusion of Dry Hops for enhanced flavour and aroma.\nWe strongly recommend the use of the Dry Hop Filter to avoid blocking of kegging and bottling equipment from hop debris.\n\nYou may brew without Dry Hops using BrewArt ingredients and substituting the Dry Hops for 2x Hops 6.\nNote you will need to use the appropriate brewing program, as listed above.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y1"
+        ],
+        "elements": [
+          "E5",
+          "E5",
+          "E5",
+          "E5",
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X3"
+        ],
+        "hops": [],
+        "dryHops": [
+          "D6",
+          "D6",
+          "D8"
+        ],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, USA, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/neder-lager",
+      "name": "Neder Lager",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/n/e/nederlager_icon_600_4.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/n/e/nederlager_banner_1440_4.jpg",
+      "shortDescription": "Classic lager in the Dutch style",
+      "longDescription": "A crisp, clean, refreshing lager the colour of pale straw. Savour the scent of herb, flower and subtle malt before quaffing. Enjoy rounded soft biscuit flavours with a cleansing bitter finish on the palate.",
+      "primaryRating": 3.5,
+      "recommended": 2,
+      "price": 42,
+      "totalPriceOfIngredients": 38.7,
+      "alcoholByVolume": 5.5,
+      "colour": 11,
+      "bitterness": 18,
+      "brewingProgram": "Lager",
+      "approximateBrewingTime": "9-12 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y8"
+        ],
+        "elements": [
+          "E1",
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X1",
+          "X1"
+        ],
+        "hops": [
+          "H3",
+          "H3"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/old-saxon-schwarzbier",
+      "name": "Old Saxon Schwarzbier",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/o/l/oldsaxon_schwartzbie_600x530.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/o/l/oldsaxon_schwartzbie_1440x530.jpg",
+      "shortDescription": "The best of both worlds",
+      "longDescription": "This beer is the great pretender, with the appearance of a stout, and the crispness of a lager this is the perfect gateway beer to the dark side. When poured its appearance is a dark brown to black with a thick beige head. The aroma has small hints of roast malt, and noble hops, with a nice bready malt backbone. There is a slight caramel chocolate taste to start with a crisp lager like finish to keep you wanting to come back for more.",
+      "primaryRating": 4.75,
+      "recommended": 6,
+      "price": 42,
+      "totalPriceOfIngredients": 34.1,
+      "alcoholByVolume": 5,
+      "colour": 61,
+      "bitterness": 23,
+      "brewingProgram": "Lager",
+      "approximateBrewingTime": "8-11 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y7"
+        ],
+        "elements": [
+          "E1",
+          "E1",
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X4"
+        ],
+        "hops": [
+          "H3"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/polski-baltic-porter",
+      "name": "Polski Baltic Porter",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/p/o/polskibaltic_icon_600_1_1.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/p/o/polskibaltic_banner_1440_1_1.jpg",
+      "shortDescription": "A dark beer for the ages",
+      "longDescription": "A deep brown Polish style porter ale with a fine beige foam, sweet caramel, chocolate and hint of licorice characters, rich roasted malts, dried fruits with a smooth warming finish. Enjoy the focused flavours.",
+      "primaryRating": 4.8333,
+      "recommended": 6,
+      "price": 44,
+      "totalPriceOfIngredients": 41,
+      "alcoholByVolume": 8.5,
+      "colour": 74,
+      "bitterness": 37,
+      "brewingProgram": "Lager",
+      "approximateBrewingTime": "9-20 Days",
+      "tastesLike": "",
+      "brewNotes": "The higher alcohol content of this brew requires a modification to the regular BrewPrint procedure. Only fill your BeerDroid with 9L of water, which with the addition of the ingredients will still make 10L of beer. Beware when brewing this bold beer, due to its vigorous fermentation it may overflow from the vent port for the first 48 hours.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y7"
+        ],
+        "elements": [
+          "E2",
+          "E2",
+          "E3"
+        ],
+        "enhancers": [
+          "X1",
+          "X1",
+          "X3",
+          "X3",
+          "X3"
+        ],
+        "hops": [],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/rapid-river-ale",
+      "name": "Rapid River Ale",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/r/a/rapid-river-ale_icon_600_opt2_1.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/r/a/rapid-river-ale_banner_1440_opt2_1.jpg",
+      "shortDescription": "An ale that flows sweet and pure",
+      "longDescription": "Big, bold and perfectly balanced, enjoy the ride with this fresh outdoorsy ale. Flowing pale amber to the glass, aromas of pine, grapefruit and spring flowers stream out. Your tastebuds are first met with a flash of bitterness which is swiftly calmed by the malty sweetness beyond. PLEASE NOTE: This BrewPrint contains Dry Hops! The Dry Hop Filter is required to filter out hop debris.",
+      "primaryRating": 5,
+      "recommended": 5,
+      "price": 44,
+      "totalPriceOfIngredients": 47.5,
+      "alcoholByVolume": 7.5,
+      "colour": 20,
+      "bitterness": 57,
+      "brewingProgram": "Ale",
+      "approximateBrewingTime": "7-12 Days",
+      "tastesLike": "",
+      "brewNotes": "This BrewPrint has been improved with the inclusion of Dry Hops for enhanced flavour and aroma.\nWe strongly recommend the use of the Dry Hop Filter to avoid blocking of kegging and bottling equipment from hop debris.\n\nYou may brew without Dry Hops using BrewArt ingredients and substituting the Dry Hops for 2x Hops 2.\nNote you will need to use the appropriate brewing program, as listed above.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y1"
+        ],
+        "elements": [
+          "E2",
+          "E5",
+          "E5",
+          "E5",
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X5"
+        ],
+        "hops": [],
+        "dryHops": [
+          "D2",
+          "D2"
+        ],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, China, USA, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/revolution-dark-lager",
+      "name": "Revolution Dark Lager",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/r/e/revolutiondarklager_icon_600_1_1.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/r/e/revolutiondarklager_banner_1440_1_1.jpg",
+      "shortDescription": "Lager takes a Viennese waltz",
+      "longDescription": "With deep amber hues topped by a creamy milk coffee head, enjoy the aromas of sweet biscuit, citrus and flowers in this Vienna-style lager, before embracing a mouth filling balance of toasty sweet malt with a cleansing bitter finish.",
+      "primaryRating": 4.5,
+      "recommended": 2,
+      "price": 40,
+      "totalPriceOfIngredients": 35.7,
+      "alcoholByVolume": 4.5,
+      "colour": 22,
+      "bitterness": 21,
+      "brewingProgram": "Lager",
+      "approximateBrewingTime": "8-11 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y8"
+        ],
+        "elements": [
+          "E2",
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X3"
+        ],
+        "hops": [
+          "H1",
+          "H1"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/ruby-porter",
+      "name": "Ruby Porter",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/r/u/rubyporter_icon_600_3.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/r/u/rubyporter_banner_1440_3.jpg",
+      "shortDescription": "King Crimson",
+      "longDescription": "With a wicked ruby red glow, white creamy foam, and cleansing moderately bitter finish, this British styled beer balanced with hints of toffee and faint chocolate is sure to intrigue even the most experienced beer taster.",
+      "primaryRating": 4.75,
+      "recommended": 8,
+      "price": 40,
+      "totalPriceOfIngredients": 38.7,
+      "alcoholByVolume": 5.5,
+      "colour": 55,
+      "bitterness": 27,
+      "brewingProgram": "Propagate: 19°C, Ferment: 16°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "5-8 Days",
+      "tastesLike": "",
+      "brewNotes": "Beware when brewing this bold beer, due to its vigorous fermentation it may overflow from the vent port for the first 48 hours.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y4"
+        ],
+        "elements": [
+          "E1",
+          "E2",
+          "E3"
+        ],
+        "enhancers": [
+          "X3",
+          "X3"
+        ],
+        "hops": [
+          "H9",
+          "H9"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/shadow-hill-porter",
+      "name": "Shadow Hill Porter",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/s/h/shadow_hill_porter_icon_600_1.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/s/h/shadow_hill_porter_banner_1440_1.jpg",
+      "shortDescription": "The porter to get you up the mountain",
+      "longDescription": "Fresh as an alpine breeze but with a warmth of spirit that typifies mountain life, this rich, dark creamy porter reaches new heights in flavour and intensity. There’s cocoa, coffee, roasted malt and pine needles in the air, and on the lips: sweet caramel covered in layers of chocolate, followed by a gentle hops bitterness to keep this full-bodied ale crisp and refreshing.",
+      "primaryRating": 4.5,
+      "recommended": 5,
+      "price": 44,
+      "totalPriceOfIngredients": 47.8,
+      "alcoholByVolume": 6.5,
+      "colour": 69,
+      "bitterness": 39,
+      "brewingProgram": "Ale",
+      "approximateBrewingTime": "7-10 Days",
+      "tastesLike": "",
+      "brewNotes": "A hop blend is required for this brew, so add the hop sachets to the BeerDroid at the End Of Fermentation notification and let infuse as if you were bottling.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y2"
+        ],
+        "elements": [
+          "E1",
+          "E2",
+          "E3",
+          "E3"
+        ],
+        "enhancers": [
+          "X1",
+          "X3"
+        ],
+        "hops": [
+          "H2",
+          "H2",
+          "H7"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Austria, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/spoke-amber-ale",
+      "name": "Spoke Amber Ale",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/s/p/spoke_amber_ale_600_1.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/s/p/spoke_amber_ale_1440_1.jpg",
+      "shortDescription": "A new world ale to spin your wheels",
+      "longDescription": "Spoke is a flavoursome amber ale with a sweet, malt biscuit character and a touch of toffee that rides along smoothly with crisp hop bitterness. It’s a cruise to the finish line as subtle esters perfectly balance this new world take on an old classic. PLEASE NOTE: This BrewPrint contains Dry Hops! The Dry Hop Filter is required to filter out hop debris.",
+      "primaryRating": 4.25,
+      "recommended": 2,
+      "price": 40,
+      "totalPriceOfIngredients": 38.5,
+      "alcoholByVolume": 5,
+      "colour": 25,
+      "bitterness": 21,
+      "brewingProgram": "Propagate: 19°C, Ferment: 18°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "5-8 Days",
+      "tastesLike": "",
+      "brewNotes": "This BrewPrint includes Dry Hops for enhanced flavour and aroma.\nWe strongly recommend the use of the Dry Hop Filter to avoid blocking of kegging and bottling equipment from hop debris.\n\nYou may brew without Dry Hops using BrewArt ingredients and substituting the Dry Hops for 2x Hops 7.\nNote you will need to use the appropriate brewing program, as listed above.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y4"
+        ],
+        "elements": [
+          "E1",
+          "E1",
+          "E2"
+        ],
+        "enhancers": [
+          "X1",
+          "X3"
+        ],
+        "hops": [],
+        "dryHops": [
+          "D2",
+          "D3"
+        ],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, USA, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/stars-stripes-lager",
+      "name": "Stars & Stripes Lager",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/s/t/starsstripeslager_icon_600_2_2.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/s/t/starsstripeslager_banner_1440_2_2.jpg",
+      "shortDescription": "Medium-bodied, full-flavoured American style",
+      "longDescription": "One of America’s favourite beer styles, you’ll find Stars & Stripes Lager medium-bodied, flavourful and crisp with a bright white head, subtle floral spice aroma, smooth grain flavours and a spritzy drying finish.",
+      "primaryRating": 4,
+      "recommended": 1,
+      "price": 35,
+      "totalPriceOfIngredients": 30.6,
+      "alcoholByVolume": 4.5,
+      "colour": 7,
+      "bitterness": 12,
+      "brewingProgram": "Lager",
+      "approximateBrewingTime": "9-20 Days",
+      "tastesLike": "",
+      "brewNotes": "The delicate hop aroma desired for beer is achieved using a single dose of H1 for your full 10L brew. Unlike other BrewPrints, you will need to infuse a single H1 sachet directly into the BeerDroid, following notification that fermentation is complete (as you would if bottling).",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y9"
+        ],
+        "elements": [
+          "E1",
+          "E1"
+        ],
+        "enhancers": [
+          "X1",
+          "X5"
+        ],
+        "hops": [
+          "H1"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, China, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/tall-tale-ale",
+      "name": "Tall Tale Ale",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/t/a/tall_tale_ale_icon_600_1.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/t/a/tall_tale_ale_banner_1440_1.jpg",
+      "shortDescription": "An unbelievably crisp little ale",
+      "longDescription": "Without a word of a lie, this adventurous, straw-coloured ale has a fine story to tell. The beginning displays subtle hints of citrus and stone fruit supported by bready undertones. A crisp bitterness rounds out this tale with well-balanced conclusion. It is truly an epic ale, you’ll definitely want to share. PLEASE NOTE: This BrewPrint contains Dry Hops! The Dry Hop Filter is required to filter out hop debris.",
+      "primaryRating": 3.3333,
+      "recommended": 2,
+      "price": 35,
+      "totalPriceOfIngredients": 30,
+      "alcoholByVolume": 4.5,
+      "colour": 9.3,
+      "bitterness": 24,
+      "brewingProgram": "[Custom] Propagate: 21°C, Ferment: 16°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "5-7 Days",
+      "tastesLike": "Furphy",
+      "brewNotes": "This BrewPrint has been improved with the inclusion of Dry Hops for enhanced flavour and aroma.\nWe strongly recommend the use of the Dry Hop Filter to avoid blocking of kegging and bottling equipment from hop debris.\n\nYou may brew without Dry Hops using BrewArt ingredients and substituting the Dry Hop for 1x Hops 6.\nNote you will need to use the appropriate brewing program, as listed above.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y3"
+        ],
+        "elements": [
+          "E5",
+          "E5"
+        ],
+        "enhancers": [
+          "X2",
+          "X2"
+        ],
+        "hops": [],
+        "dryHops": [
+          "D7"
+        ],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Austria, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/tea-party-lager",
+      "name": "Tea Party Lager",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/t/e/teaparty_lager_600x530_1_1.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/t/e/teaparty_lager_1440x530_1_1.jpg",
+      "shortDescription": "Revolutionary flavour",
+      "longDescription": "Rejoice in a flavoursome beer of the people. This revolutionary recipe uses sweet amber malts and noble hops to produce both floral and earthy notes that are the toast of everyman. Break free from the chains of flavourless beer oppression and declare your allegiance to the amber flag of Tea Party Lager. PLEASE NOTE: This BrewPrint contains Dry Hops! The Dry Hop Filter is required to filter out hop debris.",
+      "primaryRating": 4.6667,
+      "recommended": 3,
+      "price": 38,
+      "totalPriceOfIngredients": 33.5,
+      "alcoholByVolume": 5,
+      "colour": 21.6,
+      "bitterness": 30,
+      "brewingProgram": "Propagate: 22°C, Ferment: 12°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "8-11 Days",
+      "tastesLike": "",
+      "brewNotes": "This BrewPrint includes Dry Hops for enhanced flavour and aroma.\nWe strongly recommend the use of the Dry Hop Filter to avoid blocking of kegging and bottling equipment from hop debris.\n\nYou may brew without Dry Hops using BrewArt ingredients and substituting the Dry Hops for 2x Hops 7.\nNote you will need to use the appropriate brewing program, as listed above.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y3"
+        ],
+        "elements": [
+          "E1",
+          "E1",
+          "E2",
+          "E2"
+        ],
+        "enhancers": [
+          "X1"
+        ],
+        "hops": [],
+        "dryHops": [
+          "D1"
+        ],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Austria, USA, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/the-g-o-a-t-amber-ale",
+      "name": "The G-O-A-T Amber Ale",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/t/h/the_goat_brew_icon_600x530_4.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/t/h/the_goat_brew_banner_1440x530_4.jpg",
+      "shortDescription": "Greatest of all time American Amber Ale",
+      "longDescription": "This American Amber Ale is the G.O.A.T – The Greatest of All Time… Well we think so. This beer is a deep amber with a beige head which clings to the glass with every sip. Bursting with bright passionfruit aromas and undertones of raisins. With a big mouthfeel the flavours of Toffee, Citrus, and Resin coat your tongue, finishing with a crisp bitterness. PLEASE NOTE: This BrewPrint contains Dry Hops! The Dry Hop Filter is required to filter out hop debris.",
+      "primaryRating": 5,
+      "recommended": 6,
+      "price": 42,
+      "totalPriceOfIngredients": 42,
+      "alcoholByVolume": 5.5,
+      "colour": 30,
+      "bitterness": 30,
+      "brewingProgram": "Ale",
+      "approximateBrewingTime": "7-10 Days",
+      "tastesLike": "Goat Amber",
+      "brewNotes": "Beware when brewing this bold beer, due to its vigorous fermentation it may overflow from the vent port for the first 48 hours.\n\nThis BrewPrint includes Dry Hops for enhanced flavour and aroma.\nWe strongly recommend the use of the Dry Hop Filter to avoid blocking of kegging and bottling equipment from hop debris.\n\nYou may brew without Dry Hops using BrewArt ingredients and substituting the Dry Hops for 2x Hops 6.\nNote you will need to use the appropriate brewing program, as listed above.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y1"
+        ],
+        "elements": [
+          "E2",
+          "E2",
+          "E5"
+        ],
+        "enhancers": [
+          "X2",
+          "X3"
+        ],
+        "hops": [],
+        "dryHops": [
+          "D7",
+          "D7"
+        ],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/the-original-pilsner",
+      "name": "The Original Pilsner",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/t/h/theoriginalpilsner_icon_600_2.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/t/h/theoriginalpilsner_banner_1440_2.jpg",
+      "shortDescription": "Fresh bread and honeysuckle",
+      "longDescription": "An intensely hoppy, full-bodied flavour reminiscent of the original Pilsners, with a characteristically fine bitterness against a background of caramel sweetness with a spicy hop finish. Pours with a creamy white head and scents of fresh bread and honeysuckle.",
+      "primaryRating": 4.5,
+      "recommended": 3,
+      "price": 38,
+      "totalPriceOfIngredients": 34.2,
+      "alcoholByVolume": 4.5,
+      "colour": 10,
+      "bitterness": 30,
+      "brewingProgram": "Lager",
+      "approximateBrewingTime": "9-20 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y7"
+        ],
+        "elements": [
+          "E1",
+          "E5",
+          "E5"
+        ],
+        "enhancers": [
+          "X1"
+        ],
+        "hops": [
+          "H4",
+          "H4"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/the-point-ipa",
+      "name": "The Point IPA",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/t/h/the_point_ipa_brew_icon_600x530_3.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/t/h/the_point_ipa_brew_banner_1440x530_3.jpg",
+      "shortDescription": "All things point to IPA",
+      "longDescription": "Perfect for a sunny afternoon on the coast this bright amber IPA will not disappoint. The light malt bill steps aside and makes way for the aromatic hops to shine, with fragrances of Apricot, Peach and Mango this big beer is bold yet finishes with a crisp bitterness. PLEASE NOTE: This BrewPrint contains Dry Hops! The Dry Hop Filter is required to filter out hop debris.",
+      "primaryRating": "0",
+      "recommended": 0,
+      "price": 50,
+      "totalPriceOfIngredients": 50,
+      "alcoholByVolume": 7.5,
+      "colour": 21,
+      "bitterness": 69,
+      "brewingProgram": "Custom - Propagate: 21°C, Ferment: 17°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "7-10 Days",
+      "tastesLike": "Ballast Point",
+      "brewNotes": "This BrewPrint includes Dry Hops for enhanced flavour and aroma.\nWe strongly recommend the use of the Dry Hop Filter to avoid blocking of kegging and bottling equipment from hop debris.\n\nYou may brew without Dry Hops using BrewArt ingredients and substituting the Dry Hops for 2x Hops 2.\nNote you will need to use the appropriate brewing program, as listed above.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y1"
+        ],
+        "elements": [
+          "E2",
+          "E5",
+          "E5",
+          "E5",
+          "E5",
+          "E5"
+        ],
+        "enhancers": [
+          "X5"
+        ],
+        "hops": [],
+        "dryHops": [
+          "D4",
+          "D5"
+        ],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, China, USA, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/thomas-coopers-artisan-reserve",
+      "name": "Thomas Coopers Artisan Reserve",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/t/h/thomascoopersartisanreserve_icon_600_3.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/t/h/thomascoopersartisanreserve_banner_1440_3.jpg",
+      "shortDescription": "A craft brew with a touch of class",
+      "longDescription": "With an appetising soft and creamy head, bright golden yellow colour and scent of freshly cut lime and orange peel, the Artisan Reserve style brew has a balanced malt character and crisp finish in the Pilsner tradition.",
+      "primaryRating": 4.4,
+      "recommended": 4,
+      "price": 40,
+      "totalPriceOfIngredients": 37.7,
+      "alcoholByVolume": 5.5,
+      "colour": 11,
+      "bitterness": 18,
+      "brewingProgram": "Lager",
+      "approximateBrewingTime": "9-20 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y7"
+        ],
+        "elements": [
+          "E1",
+          "E1",
+          "E1"
+        ],
+        "enhancers": [
+          "X1",
+          "X1"
+        ],
+        "hops": [
+          "H4",
+          "H4"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/thomas-coopers-celebration-ale",
+      "name": "Thomas Coopers Celebration Ale",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/t/h/thomascooperscelebrationale_icon_600_2.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/t/h/thomascooperscelebrationale_banner_1440_2.jpg",
+      "shortDescription": "Celebrate beer making traditions",
+      "longDescription": "Crafted to celebrate 150 years of beer making by the Cooper family, Thomas Coopers Celebration Ale inspired this hops-driven traditional ale with a dark-red hue and tropical fruit esters. Smooth malt and a warming finish on the palate. PLEASE NOTE: This BrewPrint contains Dry Hops! The Dry Hop Filter is required to filter out hop debris.",
+      "primaryRating": 4.6667,
+      "recommended": 3,
+      "price": 38,
+      "totalPriceOfIngredients": 34.5,
+      "alcoholByVolume": 5.5,
+      "colour": 31,
+      "bitterness": 36,
+      "brewingProgram": "[Custom] Propagate: 18°C, Ferment: 17°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "5-7 Days",
+      "tastesLike": "",
+      "brewNotes": "This BrewPrint includes Dry Hops for enhanced flavour and aroma.\nWe strongly recommend the use of the Dry Hop Filter to avoid blocking of kegging and bottling equipment from hop debris.\n\nYou may brew without Dry Hops using BrewArt ingredients and substituting the Dry Hops for 2x Hops 1.\nNote you will need to use the appropriate brewing program, as listed above.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y2"
+        ],
+        "elements": [
+          "E1",
+          "E2",
+          "E2",
+          "E5"
+        ],
+        "enhancers": [
+          "X3"
+        ],
+        "hops": [],
+        "dryHops": [
+          "D1"
+        ],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Austria, USA, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/top-end-crisp-lager",
+      "name": "Top End Crisp Lager",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/t/o/top_end_lager_icon_600_1.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/t/o/top_end_lager_banner_1440_1.jpg",
+      "shortDescription": "Laid-back thirst quencher",
+      "longDescription": "Specially created in time for summer, this beer was developed with the Aussie tropics in mind and is sure to quench your thirst when the mercury rises. Easy drinking, with low bitterness and low alcohol, its gentle, herb and floral aromas are backed up by a welcome dryness and a refreshing finish.",
+      "primaryRating": 4.1111,
+      "recommended": 8,
+      "price": 30,
+      "totalPriceOfIngredients": 26.6,
+      "alcoholByVolume": 3.5,
+      "colour": 6,
+      "bitterness": 12,
+      "brewingProgram": "Lager",
+      "approximateBrewingTime": "10-14 Days",
+      "tastesLike": "Great Northern mid",
+      "brewNotes": "The delicate hop aroma desired for this mid-strength summer favourite is achieved using a single dose of H5 for your full 10L brew. Unlike other BrewPrints, you will need to infuse a single H5 sachet directly into the BeerDroid, following notification that fermentation is complete (as you would if bottling).",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y8"
+        ],
+        "elements": [
+          "E5"
+        ],
+        "enhancers": [
+          "X1",
+          "X1"
+        ],
+        "hops": [
+          "H5"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/traditional-irish-stout",
+      "name": "Traditional Irish Stout",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/t/r/traditionalirishstout_icon_600_3.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/t/r/traditionalirishstout_banner_1440_3.jpg",
+      "shortDescription": "Velvety Irish stout",
+      "longDescription": "Reminiscent of Ireland’s world-famous velvety stout, Traditional Irish Stout boasts a creamy tan head, brown-black and garnet hues. Enjoy the scent of roasted coffee and barley and the rich familiar taste of roast coffee and dark chocolate, slightly acidic on the finish.",
+      "primaryRating": 4,
+      "recommended": 5,
+      "price": 30,
+      "totalPriceOfIngredients": 27,
+      "alcoholByVolume": 4.5,
+      "colour": 134,
+      "bitterness": 33,
+      "brewingProgram": "Propagate: 18°C, Ferment: 17°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "5-7 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y2"
+        ],
+        "elements": [
+          "E1",
+          "E3",
+          "E4"
+        ],
+        "enhancers": [
+          "X4"
+        ],
+        "hops": [],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Austria, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/us-chiller-lager",
+      "name": "US Chiller Lager",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/u/s/uschillerlager_icon_600_2.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/u/s/uschillerlager_banner_1440_2.jpg",
+      "shortDescription": "Cold filtered brew",
+      "longDescription": "The finest malted barley, selected cereal grains and choicest hops combine to create this popular quaffing beer. Floral and slightly estery on the nose, sip through coarse white foam to enjoy the smooth dry finish with malt-balanced soft bitterness.",
+      "primaryRating": 4.7143,
+      "recommended": 6,
+      "price": 30,
+      "totalPriceOfIngredients": 26,
+      "alcoholByVolume": 4.5,
+      "colour": 9,
+      "bitterness": 12,
+      "brewingProgram": "Lager",
+      "approximateBrewingTime": "9-20 Days",
+      "tastesLike": "",
+      "brewNotes": "",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y9"
+        ],
+        "elements": [
+          "E1",
+          "E1"
+        ],
+        "enhancers": [
+          "X1",
+          "X1"
+        ],
+        "hops": [],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/west-coast-pale-ale",
+      "name": "West Coast Pale Ale",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/b/a/icon_westcoast_lg.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/b/a/banner_westcoast_lg.jpg",
+      "shortDescription": "Fine balance of sweet and bitter",
+      "longDescription": "An exceptional example of a classic pale ale, West Coast Pale Ale has a complex character that incorporates citrus, pine and grapefruit. Malty with marmalade and sweet flavours then firm bitterness. Beer aficionados will appreciate the complexity. PLEASE NOTE: This BrewPrint contains Dry Hops! The Dry Hop Filter is required to filter out hop debris.",
+      "primaryRating": 4.8333,
+      "recommended": 6,
+      "price": 42,
+      "totalPriceOfIngredients": 41.5,
+      "alcoholByVolume": 5.5,
+      "colour": 18,
+      "bitterness": 39,
+      "brewingProgram": "Ale",
+      "approximateBrewingTime": "6-14 Days",
+      "tastesLike": "",
+      "brewNotes": "This BrewPrint has been improved with the inclusion of Dry Hops for enhanced flavour and aroma.\nWe strongly recommend the use of the Dry Hop Filter to avoid blocking of kegging and bottling equipment from hop debris.\n\nYou may brew without Dry Hops using BrewArt ingredients and substituting the Dry Hops for 2x Hops 1.\nNote you will need to use the appropriate brewing program, as listed above.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y1"
+        ],
+        "elements": [
+          "E1",
+          "E1",
+          "E1",
+          "E2",
+          "E5"
+        ],
+        "enhancers": [],
+        "hops": [],
+        "dryHops": [
+          "D1",
+          "D4"
+        ],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Germany, USA, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/wicked-night-pumpkin-ale",
+      "name": "Wicked Night Pumpkin Ale",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/w/i/wicked-night-pumpkin-ale_icon_600_1.jpg",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/w/i/wicked-night-pumpkin-ale_banner_1440_1.jpg",
+      "shortDescription": "A deliciously twisted little brew",
+      "longDescription": "There’s nothing ghoulish about our traditional Halloween recipe. A spirited brew that would make Dr Frankenstein proud, simply add in a few dark spices to concoct an ale that looks like a beer, but tastes like a mouth-watering slice of pumpkin pie, with aromas of nutmeg and sweet, toffee malt flavour.",
+      "primaryRating": 4.5,
+      "recommended": 6,
+      "price": 38,
+      "totalPriceOfIngredients": 36.6,
+      "alcoholByVolume": 6.5,
+      "colour": 31,
+      "bitterness": 24,
+      "brewingProgram": "Ale",
+      "approximateBrewingTime": "7-10 Days",
+      "tastesLike": "",
+      "brewNotes": "This brew requires additional ingredients that you will need to source; 0.75gm Star Anise, 1.25gm Cinnamon, 1.25gm Nutmeg, 1.25gm All Spice, 1.25gm Ginger, 1.25gm Clove.   After fermentation, boil 1 cup of water, add spices and infuse for 15 minutes, strain into BeerDroid along with single Hop pouch addition.\n\nBeware when brewing this bold beer, due to it’s vigorous fermentation it may overflow from the vent port for the first 48 hours.\n\nThe delicate hop aroma desired for this BrewPrint is achieved using a single Hop dose for your full 10L brew. \nUnlike other BrewPrints, you will need to infuse a single Hop sachet directly into the BeerDroid, following notification that fermentation is complete (as you would if bottling).",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y3"
+        ],
+        "elements": [
+          "E1",
+          "E2",
+          "E2"
+        ],
+        "enhancers": [
+          "X1",
+          "X2",
+          "X3"
+        ],
+        "hops": [
+          "H7"
+        ],
+        "dryHops": [],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, Austria, United Kingdom"
+    }
+  },
+  {
+    "data": {
+      "url": "https://brewart.com/au/big-valley-haze",
+      "name": "Big Valley Haze",
+      "imageIcon": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/b/i/big_valley_haze_ipa_600_icon_fa.png",
+      "imageBanner": "https://brewart.com/media/catalog/product/cache/6c1bd49b08eb3d72da76cd97935229a8/b/i/big_valley_haze_ipa_1440_banner_fa.png",
+      "shortDescription": "A haze you’ll want to get lost in.",
+      "longDescription": "This lush and pillowy IPA bursts with vibrant hop character, bringing bold, juicy tropical fruit flavours—mango, passionfruit, and citrus zest—front and centre. Soft stone fruit aromas and a touch of fresh pine add complexity, while a smooth, resinous finish delivers a balanced sweetness that lingers. It's a haze that invites you to get lost in every sip.",
+      "primaryRating": "0",
+      "recommended": 0,
+      "price": 44,
+      "totalPriceOfIngredients": 48,
+      "alcoholByVolume": 6.5,
+      "colour": 14,
+      "bitterness": 24,
+      "brewingProgram": "Propagate: 20°C, Ferment: 19°C, Keg: 18°C, Store: 4°C",
+      "approximateBrewingTime": "7-10 Days",
+      "tastesLike": "",
+      "brewNotes": "Beware when brewing this bold beer, due to its vigorous fermentation it may overflow from the vent port for the first 48 hours.\nThis BrewPrint includes Dry Hops for enhanced flavour and aroma. \n\nWe strongly recommend the use of the Dry Hop Filter to avoid blocking of kegging and bottling equipment from hop debris. You may brew without Dry Hops using BrewArt ingredients and substituting the Dry Hops for 2 x Hops 2. \n\nNote you will need to use the appropriate brewing program, as listed above.",
+      "insideTheBox": {
+        "cleanses": [
+          "C"
+        ],
+        "yeasts": [
+          "Y10"
+        ],
+        "elements": [
+          "E5",
+          "E5"
+        ],
+        "enhancers": [
+          "X2",
+          "X2",
+          "X2",
+          "X2"
+        ],
+        "hops": [],
+        "dryHops": [
+          "D6",
+          "D8"
+        ],
+        "primers": [
+          "P",
+          "P"
+        ]
+      },
+      "countryOfOrigin": "Australia, , USA, United Kingdom"
+    }
+  }
 ]
