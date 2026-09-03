@@ -1,1 +1,603 @@
-[]
+[
+  {
+    "id": "C",
+    "category": "Droid Cleanse",
+    "url": "https://brewart.com/au/droid-cleanse",
+    "name": "Droid Cleanse",
+    "image": "https://brewart.com/media/catalog/product/cache/c194cf524cb7dcc155a1a589d7373500/d/r/droid_cleanse_powder.jpg",
+    "shortDescription": "A single-use sanitising tablet used to create a bacteria free environment.",
+    "longDescription": "Sorry, you are not over 18. You must be of legal drinking age to enter this site. By entering you accept our Privacy Policy. $15 FLAT RATE SHIPPING $15 FLAT RATE SHIPPING A single-use powdered sanitiser used to create a bacteria free environment. Fill your BeerDroid with water and sprinkle one sachet over the top prior to brewing for pure, quality beer. Or use one sachet in a 5-10L vessel to sanitise kegging equipment prior to use. Includes: 1 x Droid Cleanse A single-use powdered sanitiser used to create a bacteria free environment. Fill your BeerDroid with water and sprinkle one sachet over the top prior to brewing for pure, quality beer. Or use one sachet in a 5-10L vessel to sanitise kegging equipment prior to use.",
+    "price": 1.5,
+    "countryOfOrigin": "Australia",
+    "info": {}
+  },
+  {
+    "id": "Y1",
+    "category": "Yeast",
+    "url": "https://brewart.com/au/yeast-1",
+    "name": "Yeast 1",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/y/1/y1_4.png",
+    "shortDescription": "Subtle ester qualities, highlighting hop characters. Ferments out clear.",
+    "longDescription": "An excellent American Ale style yeast of some pedigree, Y1 can throw subtle esters, complementing the malt backbone whilst highlighting the hop characters of your brew. Ingredients: Brewing Yeast\nNet Weight: 10g Program: Ale\nOr if using Custom Program:\nRecommended Propagate Temperature: 21°C\nRecommended Ferment Temperature: 15-22°C",
+    "price": 4,
+    "countryOfOrigin": "Germany",
+    "info": {
+      "Flavour & Aroma": "Subtle Ester",
+      "Beer Style Pairing": "Highlights Hops",
+      "Clarity": "Clear"
+    }
+  },
+  {
+    "id": "Y2",
+    "category": "Yeast",
+    "url": "https://brewart.com/au/yeast-2",
+    "name": "Yeast 2",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/y/2/y2_3.png",
+    "shortDescription": "Fruity and ester flavours that blend well with heavily bittered beers. Slight cloudiness.",
+    "longDescription": "Y2 tends to produce fruity flavours and esters. Finishing at a slightly higher specific gravity, the resulting residual sweetness can work nicely with heavily bittered ales. Ingredients: Brewing Yeast\nNet Weight: 10g Program: Ale\nOr if using Custom Program:\nRecommended Propagate Temperature: 21°C\nRecommended Ferment Temperature: 18-22°C",
+    "price": 3,
+    "countryOfOrigin": "Austria",
+    "info": {
+      "Flavour & Aroma": "Fruity & Ester",
+      "Beer Style Pairing": "Heavily Bittered",
+      "Clarity": "Slight Cloudy"
+    }
+  },
+  {
+    "id": "Y3",
+    "category": "Yeast",
+    "url": "https://brewart.com/au/yeast-3",
+    "name": "Yeast 3",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/y/3/y3_3.png",
+    "shortDescription": "A neutral yet vigorous fermenting strain. Ferments out clear.",
+    "longDescription": "A quite neutral, yet vigorous fermenting strain, Y3 is enormously popular and extremely versatile. For use across a large range of ale styles and may even be fermented at lager temperatures. Ingredients: Brewing Yeast\nNet Weight: 10g Program: Ale\nOr if using Custom Program:\nRecommended Propagate Temperature: 19°C\nRecommended Ferment Temperature: 18-22°C",
+    "price": 2.5,
+    "countryOfOrigin": "Austria",
+    "info": {
+      "Flavour & Aroma": "Neutral",
+      "Beer Style Pairing": "Vigorous Ferment",
+      "Clarity": "Clear"
+    }
+  },
+  {
+    "id": "Y4",
+    "category": "Yeast",
+    "url": "https://brewart.com/au/yeast-4",
+    "name": "Yeast 4",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/y/4/y4_3.png",
+    "shortDescription": "Clean malt and hop aromas. Produces well attenuated clear ales.",
+    "longDescription": "A proprietary strain belonging to Coopers Brewery, Y4 ferments vigorously, producing a well attenuated ale with clean malt and hop aromas. Ingredients: Brewing Yeast\nNet Weight: 10g Program: Ale\nOr if using Custom Program:\nRecommended Propagate Temperature: 19°C\nRecommended Ferment Temperature: 18-20°C",
+    "price": 2.5,
+    "countryOfOrigin": "Australia",
+    "info": {
+      "Flavour & Aroma": "Clean Malt & Hop",
+      "Beer Style Pairing": "Clear Ales",
+      "Clarity": "Clear"
+    }
+  },
+  {
+    "id": "Y5",
+    "category": "Yeast",
+    "url": "https://brewart.com/au/yeast-5",
+    "name": "Yeast 5",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/y/5/y5_4.png",
+    "shortDescription": "Subtle banana and clove qualities complementing wheat beers. Finish is slightly cloudy.",
+    "longDescription": "A versatile wheat yeast, Y5 can throw both banana and clove characters at various levels, dependent on fermentation temperature and pitching rates. Great for all wheat beers! Ingredients: Brewing Yeast\nNet Weight: 10g Program: Ale\nOr if using Custom Program:\nRecommended Propagate Temperature: 21°C\nRecommended Ferment Temperature: 18-22°C",
+    "price": 3.5,
+    "countryOfOrigin": "Austria",
+    "info": {
+      "Flavour & Aroma": "Banana & Clove",
+      "Beer Style Pairing": "Wheat",
+      "Clarity": "Slight Cloudy"
+    }
+  },
+  {
+    "id": "Y6",
+    "category": "Yeast",
+    "url": "https://brewart.com/au/yeast-6",
+    "name": "Yeast 6",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/y/6/y6_4.png",
+    "shortDescription": "Phenolic, peppery characters with hints of banana. Finish is slightly cloudy.",
+    "longDescription": "A Belgian Ale style yeast, Y6 happily ferments higher alcohol brews, typical of the Trappist styles, whilst producing phenolic flavours and aromas redolent of the region. Ingredients: Brewing Yeast\nNet Weight: 10g Program: Ale\nOr if using Custom Program:\nRecommended Propagate Temperature: 21°C\nRecommended Ferment Temperature: 20-22°C",
+    "price": 5,
+    "countryOfOrigin": "Austria",
+    "info": {
+      "Flavour & Aroma": "Phenolic, Peppery, Banana",
+      "Beer Style Pairing": "",
+      "Clarity": "Slight Cloudy"
+    }
+  },
+  {
+    "id": "Y7",
+    "category": "Yeast",
+    "url": "https://brewart.com/au/yeast-7",
+    "name": "Yeast 7",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/y/7/y7_4.png",
+    "shortDescription": "Clean aromas and flavours. Finished beer is clear.",
+    "longDescription": "An extremely popular strain used for a broad spectrum of lager styles. Works happily at lager fermentation temperatures to produce clean aromas and flavours, that emphasise the malt and hop characters of the beer. This strain will also cope with slightly warmer fermentation temperatures, for the Californian Common style. Ingredients: Brewing YeastNet Weight: 10g Program: Lager\nOr if using Custom Program:\nRecommended Propagate Temperature: 22°C\nRecommended Ferment Temperature: 12-15°C",
+    "price": 3,
+    "countryOfOrigin": "Germany",
+    "info": {
+      "Flavour & Aroma": "Clean",
+      "Beer Style Pairing": "",
+      "Clarity": "Clear"
+    }
+  },
+  {
+    "id": "Y8",
+    "category": "Yeast",
+    "url": "https://brewart.com/au/yeast-8",
+    "name": "Yeast 8",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/y/8/y8_4.png",
+    "shortDescription": "A versatile strain with neutral flavours. Ferments out clear.",
+    "longDescription": "A versatile strain with neutral flavour development, Y8 emphasises a brew's malt characters. Prefers lager fermentation temperatures, suitable for various lagers but particularly suited to the pilsner style. Ingredients: Brewing YeastNet Weight: 10g Program: Lager\nOr if using Custom Program:\nRecommended Propagate Temperature: 22°C\nRecommended Ferment Temperature: 12-15°C",
+    "price": 4.5,
+    "countryOfOrigin": "Germany",
+    "info": {
+      "Flavour & Aroma": "Neutral",
+      "Beer Style Pairing": "",
+      "Clarity": "Clear"
+    }
+  },
+  {
+    "id": "Y9",
+    "category": "Yeast",
+    "url": "https://brewart.com/au/yeast-9",
+    "name": "Yeast 9",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/y/9/y9_4.png",
+    "shortDescription": "Subtle fruity and estery characters. Ferments out clear.",
+    "longDescription": "Y9 is a widely used lager strain, which may produce subtle fruity and estery characters to compliment the brew's malt/hop profile. Tends to finish at a slightly higher specific gravity giving increased mouth-feel and length to the palate. Suitable for most styles of lager. Ingredients: Brewing YeastNet Weight: 10g Program: Lager\nOr if using Custom Program:\nRecommended Propagate Temperature: 22°C\nRecommended Ferment Temperature: 12-15°C",
+    "price": 4.5,
+    "countryOfOrigin": "Germany",
+    "info": {
+      "Flavour & Aroma": "Subtle Fruity & Ester",
+      "Beer Style Pairing": "",
+      "Clarity": "Clear"
+    }
+  },
+  {
+    "id": "Y10",
+    "category": "Yeast",
+    "url": "https://brewart.com/au/yeast-10",
+    "name": "Yeast 10",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/y/1/y10_2.png",
+    "shortDescription": "Soft fruity esters for hazy, hop-forward beers. Fuller mouthfeel with gentle haze.",
+    "longDescription": "Suited to hazy and hop-forward styles, Y10 produces soft stone-fruit esters with light tropical and citrus notes that blend smoothly with hop additions. With medium-high attenuation, it leaves a fuller body and soft, rounded finish. Ingredients: Brewing Yeast\nNet Weight: 10g Program: Ale\nOr if using Custom Program:\nRecommended Propagate Temperature: 20°C\nRecommended Ferment Temperature: 18-25°C",
+    "price": 7.5,
+    "countryOfOrigin": "",
+    "info": {}
+  },
+  {
+    "id": "E1",
+    "category": "Elements",
+    "url": "https://brewart.com/au/element-1",
+    "name": "Element 1 (E1)",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/e/1/e1_2_1.png",
+    "shortDescription": "Minimal colour, grainy malt flavours, moderate bitterness.",
+    "longDescription": "The subtle E1 Element gives your brew a minimalist colour base layered with grainy malt flavours, wrapped up in moderate bitterness. Ingredients: Malted Barley, Hops\nContains: Gluten\nNet Weight: 250g\nProduct of Australia",
+    "price": 4,
+    "countryOfOrigin": "Australia",
+    "info": {
+      "Colour": "Minimal",
+      "Malt Flavour": "Grainy",
+      "Bitterness": "Moderate"
+    }
+  },
+  {
+    "id": "E2",
+    "category": "Elements",
+    "url": "https://brewart.com/au/element-2",
+    "name": "Element 2 (E2)",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/e/2/e2_4.png",
+    "shortDescription": "Medium colour, sweet biscuity malt flavours, medium bitterness.",
+    "longDescription": "The E2 Element gives your brew a medium colour with sweet/biscuity malt flavours and medium bitterness. Ingredients: Malted Barley, Hops\nContains: Gluten\nNet Weight: 250g Product of Australia",
+    "price": 4,
+    "countryOfOrigin": "Australia",
+    "info": {
+      "Colour": "Medium",
+      "Malt Flavour": "Sweet Biscuity",
+      "Bitterness": "Medium"
+    }
+  },
+  {
+    "id": "E3",
+    "category": "Elements",
+    "url": "https://brewart.com/au/element-3",
+    "name": "Element 3 (E3)",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/e/3/e3_3.png",
+    "shortDescription": "Full colour, sweet, roasted malt flavours, medium-firm bitterness.",
+    "longDescription": "For a fuller colour and sweet flavour of roasted malt, the E3 Element delivers a medium-to-firm bitterness. Ingredients: Malted Barley, Hops\nContains: Gluten\nNet Weight: 250g\nProduct of Australia",
+    "price": 4.5,
+    "countryOfOrigin": "Australia",
+    "info": {
+      "Colour": "Full",
+      "Malt Flavour": "Sweet Roasted",
+      "Bitterness": "Medium-Firm"
+    }
+  },
+  {
+    "id": "E4",
+    "category": "Elements",
+    "url": "https://brewart.com/au/element-4",
+    "name": "Element 4 (E4)",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/e/4/e4_3.png",
+    "shortDescription": "Deep colour, roasted malt flavours, firm bitterness.",
+    "longDescription": "E4 is the Element of choice for distinctive ales with deep colour, rich roasted malt flavours and firm bitterness. Ingredients: Malted Barley, Hops\nContains: Gluten\nNet Weight: 250g\nProduct of Australia",
+    "price": 4.5,
+    "countryOfOrigin": "Australia",
+    "info": {
+      "Colour": "Deep",
+      "Malt Flavour": "Roasted",
+      "Bitterness": "Firm"
+    }
+  },
+  {
+    "id": "E5",
+    "category": "Elements",
+    "url": "https://brewart.com/au/element-5",
+    "name": "Element 5 (E5)",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/e/5/e5_5.png",
+    "shortDescription": "Minimal colour, subtle malt flavours, medium-firm bitterness.",
+    "longDescription": "The versatile E5 Element provides minimal colour backed by subtle malt flavours and medium-to-firm bitterness. Ingredients: Malted Barley, Hops\nContains: Gluten\nNet Weight: 250g\nProduct of Australia",
+    "price": 4,
+    "countryOfOrigin": "Australia",
+    "info": {
+      "Colour": "Minimal",
+      "Malt Flavour": "Subtle",
+      "Bitterness": "Medium-Firm"
+    }
+  },
+  {
+    "id": "X1",
+    "category": "Enhancers",
+    "url": "https://brewart.com/au/enhancer-1",
+    "name": "Enhancer 1 (X1)",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/x/1/x1_3.png",
+    "shortDescription": "Minimal colour, grainy sweet malt characters and body.",
+    "longDescription": "X1 is a versatile Enhancer that imparts refined colour, with grainy sweet malt characters and body. Suitable for many ale styles. Ingredients: Malted Barley\nContains: Gluten\nNet Weight: 250g\nProduct of Australia",
+    "price": 3.5,
+    "countryOfOrigin": "Australia",
+    "info": {
+      "Type": "Light Dry Malt",
+      "Colour": "Minimal",
+      "Enhancement": "Grainy, Sweet",
+      "Style": "Body"
+    }
+  },
+  {
+    "id": "X2",
+    "category": "Enhancers",
+    "url": "https://brewart.com/au/enhancer-2",
+    "name": "Enhancer 2 (X2)",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/x/2/x2_3.png",
+    "shortDescription": "Minimal colour, soft mouthfeel, for lighter style beers.",
+    "longDescription": "Enchancer X2 is great for lighter style beers, delivering softer mouthfeel and better head retention while imparting minimal colour. Ingredients: Malted Barley, Wheat\nContains: Gluten, Wheat\nNet Weight: 250g\nProduct of Australia",
+    "price": 3.5,
+    "countryOfOrigin": "Australia",
+    "info": {
+      "Type": "Wheat Dry Malt",
+      "Colour": "Minimal",
+      "Enhancement": "Soft Mouthfeel",
+      "Style": "Lighter"
+    }
+  },
+  {
+    "id": "X3",
+    "category": "Enhancers",
+    "url": "https://brewart.com/au/enhancer-3",
+    "name": "Enhancer 3 (X3)",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/x/3/x3_3.png",
+    "shortDescription": "Moderate colour, rich toffee flavours, higher perceived sweetness.",
+    "longDescription": "X3 imparts reddish hues, rich toffee flavours, coffee like aromas, and a higher perceived sweetness to your brew. Ingredients: Malted Barley\nContains: Gluten\nNet Weight: 250g\nProduct of Australia",
+    "price": 4,
+    "countryOfOrigin": "Australia",
+    "info": {
+      "Type": "Amber Dry Malt",
+      "Colour": "Moderate",
+      "Enhancement": "Rich Toffee",
+      "Style": "Sweeter"
+    }
+  },
+  {
+    "id": "X4",
+    "category": "Enhancers",
+    "url": "https://brewart.com/au/enhancer-4",
+    "name": "Enhancer 4 (X4)",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/x/4/x4_3.png",
+    "shortDescription": "Deep colour, roast coffee and chocolate flavours, for darker style beers.",
+    "longDescription": "X4, is great for darker style beers such as stouts and porters, giving them a greater depth of colour and delivering rich aromas and flavours of roasted coffee and chocolate. Ingredients: Malted Barley\nContains: Gluten\nNet Weight: 250g\nProduct of Australia",
+    "price": 4.5,
+    "countryOfOrigin": "Australia",
+    "info": {
+      "Type": "Dark Dry Malt",
+      "Colour": "Deep",
+      "Enhancement": "Roast Coffee, Chocolate",
+      "Style": "Darker"
+    }
+  },
+  {
+    "id": "X5",
+    "category": "Enhancers",
+    "url": "https://brewart.com/au/enhancer-5",
+    "name": "Enhancer 5 (X5)",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/x/5/x5_3.png",
+    "shortDescription": "Increases alcohol without imparting additional colour or flavour.",
+    "longDescription": "X5 helps your brew ferment thoroughly and gives a clean finish. Increases alcohol content without imparting additional colour or flavour. Suitable for all beer styles. Ingredients: Dextrose\nNet Weight: 250g\nProduct of Australia",
+    "price": 3.5,
+    "countryOfOrigin": "China",
+    "info": {
+      "Type": "Dextrose",
+      "Colour": "NIL",
+      "Enhancement": "NIL",
+      "Style": "Alcohol"
+    }
+  },
+  {
+    "id": "H1",
+    "category": "Hop Oils",
+    "url": "https://brewart.com/au/hops-1",
+    "name": "Hops 1",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/h/1/h1_4.png",
+    "shortDescription": "Citrus and floral aromas for beers with a firm bitterness.",
+    "longDescription": "H1 offers generous citrus and floral aromas that harmonise deliciously with sweet crystal malts, lending a firm bitterness to ales reminiscent of marmalade on toast. Ingredients: HopsNet Weight: 30g",
+    "price": 4.6,
+    "countryOfOrigin": "United Kingdom",
+    "info": {
+      "Flavour & Aroma": "Citrus & Floral",
+      "Beer Style Pairing": "Firm Bitterness",
+      "Similar Hop": "Amarillo"
+    }
+  },
+  {
+    "id": "H2",
+    "category": "Hop Oils",
+    "url": "https://brewart.com/au/hops-2",
+    "name": "Hops 2",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/h/2/h2_4.png",
+    "shortDescription": "Resinous with bold citrus and floral notes for beers with an assertive bitter finish.",
+    "longDescription": "A bold citrus/floral blend resulting in a resinous hop profile, H2 wraps around complex malt flavours that demand an assertive bitter finish. Ingredients: HopsNet Weight: 30g",
+    "price": 4.6,
+    "countryOfOrigin": "United Kingdom",
+    "info": {
+      "Flavour & Aroma": "Resinous, Bold & Floral",
+      "Beer Style Pairing": "Assertive Bitter Flavour",
+      "Similar Hop": "Centennial"
+    }
+  },
+  {
+    "id": "H3",
+    "category": "Hop Oils",
+    "url": "https://brewart.com/au/hops-3",
+    "name": "Hops 3",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/h/3/h3_4.png",
+    "shortDescription": "Subtle herbal and ester aromas for beers with a soft finish.",
+    "longDescription": "A subtle herbal and ester combination, H3 proposes a stylish, well rounded, soft finish for medium bitterness lagers. Ingredients: Hops\nNet Weight: 30g",
+    "price": 4.6,
+    "countryOfOrigin": "United Kingdom",
+    "info": {
+      "Flavour & Aroma": "Subtle Herbal & Ester",
+      "Beer Style Pairing": "Soft Finish",
+      "Similar Hop": "Hallertau"
+    }
+  },
+  {
+    "id": "H4",
+    "category": "Hop Oils",
+    "url": "https://brewart.com/au/hops-4",
+    "name": "Hops 4",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/h/4/h4_4.png",
+    "shortDescription": "Herbal and spicy notes, highlights firm bitterness.",
+    "longDescription": "Providing a herbal backbone with spicy notes, H4 highlights the grainy, malty and firm bitterness characters of the classic pilsner style. Ingredients: Hops\nNet Weight: 30g",
+    "price": 4.6,
+    "countryOfOrigin": "United Kingdom",
+    "info": {
+      "Flavour & Aroma": "Herbal & Spicy",
+      "Beer Style Pairing": "Firm Bitterness",
+      "Similar Hop": "Saaz"
+    }
+  },
+  {
+    "id": "H5",
+    "category": "Hop Oils",
+    "url": "https://brewart.com/au/hops-5",
+    "name": "Hops 5",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/h/5/h5_4.png",
+    "shortDescription": "Floral and herbal notes for beers with a clean finish.",
+    "longDescription": "An enticing blend of floral and herbal notes, H5 delivers the clean finish for lagers intended to be quaffed when icy cold. Ingredients: Hops\nNet Weight: 30g",
+    "price": 4.6,
+    "countryOfOrigin": "United Kingdom",
+    "info": {
+      "Flavour & Aroma": "Floral & Herbal",
+      "Beer Style Pairing": "Clean Finish",
+      "Similar Hop": "Hersbrucker"
+    }
+  },
+  {
+    "id": "H6",
+    "category": "Hop Oils",
+    "url": "https://brewart.com/au/hops-6",
+    "name": "Hops 6",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/h/6/h6_4.png",
+    "shortDescription": "A lifted blend of passionfruit and stone fruit aromas.",
+    "longDescription": "A lifted blend of passionfruit and stone fruits , H6 complements the subtle pale malt and spicy wheat characters of light coloured ales. Ingredients: HopsNet Weight: 30g",
+    "price": 4.6,
+    "countryOfOrigin": "United Kingdom",
+    "info": {
+      "Flavour & Aroma": "Passionfruit & Stonefruit",
+      "Beer Style Pairing": "",
+      "Similar Hop": "Galaxy"
+    }
+  },
+  {
+    "id": "H7",
+    "category": "Hop Oils",
+    "url": "https://brewart.com/au/hops-7",
+    "name": "Hops 7",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/h/7/h7_4.png",
+    "shortDescription": "Herbal and fruity notes blended with sweet toffee and biscuit malt aromas.",
+    "longDescription": "Enticing herbal and fruity hop notes blend delightfully in H7, with the typically sweet toffee and biscuit malt aromas of ales from the mother land. Ingredients: HopsNet Weight: 30g",
+    "price": 4.6,
+    "countryOfOrigin": "United Kingdom",
+    "info": {
+      "Flavour & Aroma": "Herbal & Fruit, Toffee & Biscuit",
+      "Beer Style Pairing": "",
+      "Similar Hop": "Challenger"
+    }
+  },
+  {
+    "id": "H8",
+    "category": "Hop Oils",
+    "url": "https://brewart.com/au/hops-8",
+    "name": "Hops 8",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/h/8/h8_4.png",
+    "shortDescription": "Zingy orange peel and coriander spice aromas.",
+    "longDescription": "H8's refreshing orange peel and coriander spice gives a welcome zing to Belgian Ale styles and most light coloured wheat dominant ales. Ingredients: HopsNet Weight: 30g",
+    "price": 4.6,
+    "countryOfOrigin": "United Kingdom",
+    "info": {
+      "Flavour & Aroma": "Zingy Orange Peel & Corriander",
+      "Beer Style Pairing": "",
+      "Similar Hop": "Bitter Orange Peel and Coriander Seed"
+    }
+  },
+  {
+    "id": "H9",
+    "category": "Hop Oils",
+    "url": "https://brewart.com/au/hops-9",
+    "name": "Hops 9",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/h/9/h9_4.png",
+    "shortDescription": "Spicy, fruity aromas for beers of deep colour and moderate bitterness.",
+    "longDescription": "Tantalising spicy/fruity H9 finds synergy with ales of deep colour, roasted malt flavours and moderate bitterness, when served sightly warmer than fridge temperature. Ingredients: HopsNet Weight: 30g",
+    "price": 4.6,
+    "countryOfOrigin": "United Kingdom",
+    "info": {
+      "Flavour & Aroma": "Spicy & Fruit",
+      "Beer Style Pairing": "Deep colour, Mod Bitterness",
+      "Similar Hop": "Cascade"
+    }
+  },
+  {
+    "id": "D1",
+    "category": "Dry Hops",
+    "url": "https://brewart.com/au/dry-hop-1-cascade",
+    "name": "Dry Hop 1 - Cascade",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/i/c/icon_blackshadow_d1_2.png",
+    "shortDescription": "",
+    "longDescription": "The original craft beer hop. Cascade the hop which started the craft beer boom is known for its floral aromas with hints of grapefruit and spicy citrus synonymous with American Pale Ales and IPA's. Ingredients: Cascade Hops\nNet Weight: 25g\nProduct of United States of America\nPackaged in Australia",
+    "price": 5,
+    "countryOfOrigin": "USA",
+    "info": {
+      "Type": "Cascade"
+    }
+  },
+  {
+    "id": "D2",
+    "category": "Dry Hops",
+    "url": "https://brewart.com/au/dry-hop-2-centennial",
+    "name": "Dry Hop 2 - Centennial",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/i/c/icon_blackshadow_d2_2.png",
+    "shortDescription": "",
+    "longDescription": "Old school but still cool. Centennial contributes big bursts of pine and citrus aromas with floral undertones. Well suited to American Pale Ales and IPAs. Ingredients: Centennial Hops\nNet Weight: 25g\nProduct of United States of America\nPackaged in Australia",
+    "price": 5,
+    "countryOfOrigin": "USA",
+    "info": {
+      "Type": "Centennial"
+    }
+  },
+  {
+    "id": "D3",
+    "category": "Dry Hops",
+    "url": "https://brewart.com/au/dry-hop-3-chinook",
+    "name": "Dry Hop 3 - Chinook",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/i/c/icon_blackshadow_d3_2.png",
+    "shortDescription": "",
+    "longDescription": "Like walking through a pine forest. Chinook is known for its piney spicy aromas which can be used in classic West Coast IPAs through to bold Stouts. Ingredients: Chinook Hops\nNet Weight: 25g\nProduct of United States of America\nPackaged in Australia",
+    "price": 5,
+    "countryOfOrigin": "USA",
+    "info": {
+      "Type": "Chinook"
+    }
+  },
+  {
+    "id": "D4",
+    "category": "Dry Hops",
+    "url": "https://brewart.com/au/dry-hop-4-simcoe",
+    "name": "Dry Hop 4 - Simcoe",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/i/c/icon_blackshadow_d4_2.png",
+    "shortDescription": "",
+    "longDescription": "Miss. Popularity. Simcoe is one of the most popular hops in the craft beer industry due to its aromas of Passionfruit, citrus and pine with earthy herbal undertones. Ingredients: Simcoe Hops\nNet Weight: 25g\nProduct of United States of America\nPackaged in Australia",
+    "price": 6,
+    "countryOfOrigin": "USA",
+    "info": {
+      "Type": "Simcoe"
+    }
+  },
+  {
+    "id": "D5",
+    "category": "Dry Hops",
+    "url": "https://brewart.com/au/dry-hop-5-amarillo",
+    "name": "Dry Hop 5 - Amarillo®",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/i/c/icon_blackshadow_d5_2.png",
+    "shortDescription": "",
+    "longDescription": "A real zesty beauty! Amarillo® is known for its high levels of Citrus aromas of lemon, orange and grapefruit. Ingredients: Amarillo Hops®\nNet Weight: 25g\nProduct of United States of America\nPackaged in Australia\nAMARILLO® is a trademark owned by Virgil Gamache Farms, Inc.",
+    "price": 6,
+    "countryOfOrigin": "USA",
+    "info": {
+      "Type": "Amarillo"
+    }
+  },
+  {
+    "id": "D6",
+    "category": "Dry Hops",
+    "url": "https://brewart.com/au/dry-hop-6-citra",
+    "name": "Dry Hop 6 - Citra",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/i/c/icon_blackshadow_d6_2.png",
+    "shortDescription": "",
+    "longDescription": "A fruit bowl for your beer. As the name suggests Citra is bursting with big aromas of grapefruit, lime, and passionfruit and has taken the craft beer world by storm. Ingredients: Citra Hops\nNet Weight: 25g\nProduct of United States of America\nPackaged in Australia",
+    "price": 6,
+    "countryOfOrigin": "USA",
+    "info": {
+      "Type": "Citra"
+    }
+  },
+  {
+    "id": "D7",
+    "category": "Dry Hops",
+    "url": "https://brewart.com/au/dry-hop-7-galaxy",
+    "name": "Dry Hop 7 - Galaxy",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/i/c/icon_blackshadow_d7_2.png",
+    "shortDescription": "",
+    "longDescription": "From the land down under. Galaxy is a highly sought-after Australian variety which has gained popularity due to its big aromas of passionfruit, peach and citrus. Ingredients: Galaxy Hops\nNet Weight: 25g\nProduct of Australia\nPackaged in Australia",
+    "price": 6,
+    "countryOfOrigin": "Australia",
+    "info": {
+      "Type": "Galaxy"
+    }
+  },
+  {
+    "id": "D8",
+    "category": "Dry Hops",
+    "url": "https://brewart.com/au/dry-hop-8-mosaic",
+    "name": "Dry Hop 8 - Mosaic",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/i/c/icon_blackshadow_d8_1.png",
+    "shortDescription": "",
+    "longDescription": "A Mosaic of flavours and aromas. Somewhat of a chameleon Mosaic is brimming with aromas ranging from blueberry, tropical and citrus fruits, through to bubblegum. Sometimes referred to as Citra on steroids! Ingredients: Mosaic Hops\nNet Weight: 25g\nProduct of United States of America\nPackaged in Australia",
+    "price": 6,
+    "countryOfOrigin": "USA",
+    "info": {
+      "Type": "Mosaic"
+    }
+  },
+  {
+    "id": "P",
+    "category": "Primer",
+    "url": "https://brewart.com/au/primer",
+    "name": "Primer",
+    "image": "https://brewart.com/media/catalog/product/cache/59e38558d39c70e7891f7fa959ed727b/p/r/primer_1.png",
+    "shortDescription": "Keg Primer, accurately carbonates beer during secondary fermentation",
+    "longDescription": "A convenient, no mess, no fuss way to accurately carbonate your BrewArt Kegs.\nDosage required is one 30g bar per 5 litre BrewArt Keg. Ingredients: Sugar, Glucose\nNet Weight: 30g",
+    "price": 2.5,
+    "countryOfOrigin": "United Kingdom",
+    "info": {}
+  }
+]

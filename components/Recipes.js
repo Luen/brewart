@@ -1,8 +1,8 @@
 import { getIngredients } from '@/lib/ingredients'
+import recipesClones from '@/lib/recipesClones.json'
 import Link from 'next/link'
 
 export default async function Recipes() {
-    const recipesClones = require('@/lib/recipesClones.json')
 
     // Get prices of ingredients
     let response = await getIngredients()
